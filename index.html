@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Consulta de Processo - Lei 11.520/2007</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>🔎 Consulta de Status de Processo</h1>
+
+    <p>Digite os 6 dígitos visíveis do CPF (ex: <strong>XXX.576.106-XX</strong>) ou o número do processo:</p>
+
+    <input type="text" id="entrada" placeholder="576106 ou 2025-0001" maxlength="20" />
+    <button onclick="buscar()">Buscar</button>
+
+    <div id="resultado"></div>
+
+    <!-- Rodapé explicativo -->
+    <footer class="rodape">
+      <p>
+        🔒 Este site foi criado por Thiago Nunes da Costa para facilitar o acesso de pessoas idosas, com mobilidade reduzida ou pouca familiaridade digital à situação de requerimentos da pensão especial prevista na <strong>Lei nº 11.520/2007</strong>.
+      </p>
+
+      <p>
+        <strong>Doe para o desenvolvimento de mais sites assim!</strong> 
+      </p>
+
+      <p>
+        Chave pix: thiago.nunes@discente.ufg.br 
+      </p>
+
+      <details>
+        <summary>ℹ️ Sobre os dados utilizados</summary>
+        <p>
+          Os dados são extraídos da base pública do Ministério dos Direitos Humanos e da Cidadania, referente aos requerimentos de pensão especial de pessoas atingidas pela hanseníase e seus familiares.
+          <br>Fonte oficial: <a href="https://dados.gov.br/dados/conjuntos-dados/requerimentos-de-pensao-especial-da-lei-11-520-de-2007" target="_blank">dados.gov.br</a>
+        </p>
+      </details>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
