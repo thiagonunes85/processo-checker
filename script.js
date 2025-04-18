@@ -1,6 +1,5 @@
 let dados = [];
 
-// Carrega o JSON
 fetch('dados.json')
   .then(res => res.json())
   .then(json => {
@@ -17,25 +16,38 @@ function buscar() {
   const resultadoDiv = document.getElementById('resultado');
   resultadoDiv.innerHTML = '';
 
-  if (!entrada || entrada.length < 4) {
-    resultadoDiv.textContent = 'Por favor, insira ao menos 4 caracteres.';
+  if (!entrada || entrada.length < 3) {
+    resultadoDiv.textContent = 'Por favor, insira pelo menos 3 dígitos.';
     return;
   }
 
-  const entradaNormalizada = normalizarTexto(entrada);
+  const entradaNumeros = entrada.replace(/\D/g, '');
+
+  if (entradaNumeros.length === 11) {
+    const aviso = document.createElement('p');
+    aviso.style.color = '#888';
+    aviso.style.fontSize = '14px';
+    aviso.style.marginTop = '10px';
+    aviso.innerHTML = '🔐 Detectamos que você digitou o CPF completo. Por segurança, só usamos os dígitos de posição 4 a 9 na busca.';
+    resultadoDiv.appendChild(aviso);
+  }
 
   const resultados = dados.filter(item => {
-    const cpfNumeros = item.CPF.replace(/[^\d]/g, '');
-    const cpfVisivel = cpfNumeros.slice(3, 9); // posições 4 a 9
+    const cpfNumeros = item.CPF.replace(/\D/g, '');
+    const faixaCpf = cpfNumeros.slice(3, 9);
     const processoNormalizado = normalizarTexto(item['Número do Processo']);
 
-    return cpfVisivel === entradaNormalizada || processoNormalizado.includes(entradaNormalizada);
+    const cpfMatch = faixaCpf.includes(entradaNumeros);
+    const processoMatch = processoNormalizado.includes(normalizarTexto(entrada));
+
+    return cpfMatch || processoMatch;
   });
 
   if (resultados.length) {
     resultados.forEach(item => {
       const div = document.createElement('div');
       div.innerHTML = `
+        <strong>Nome:</strong> ${item.Nome}<br>
         <strong>CPF:</strong> ${item.CPF}<br>
         <strong>Nº Processo:</strong> ${item['Número do Processo']}<br>
         <strong>Status:</strong> ${item.Status}<br><hr>
@@ -43,6 +55,8 @@ function buscar() {
       resultadoDiv.appendChild(div);
     });
   } else {
-    resultadoDiv.textContent = 'Nenhum processo encontrado com os dados informados.';
+    const avisoErro = document.createElement('p');
+    avisoErro.textContent = 'Nenhum processo encontrado com os dados informados.';
+    resultadoDiv.appendChild(avisoErro);
   }
 }
