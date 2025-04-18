@@ -72,3 +72,18 @@ function buscar() {
     }
   }
   
+  function copiarPix() {
+    const chave = document.getElementById("chavePix").textContent;
+  
+    navigator.clipboard.writeText(chave).then(() => {
+      const aviso = document.getElementById("aviso-copiado");
+      aviso.style.display = 'inline';
+      setTimeout(() => {
+        aviso.style.display = 'none';
+      }, 3000);
+    }).catch(err => {
+      alert('Não foi possível copiar a chave Pix automaticamente. Copie manualmente.');
+      console.error('Erro ao copiar:', err);
+    });
+  }
+  

@@ -1,75 +1,64 @@
-# 🧾 Verificador de Situação de Processos de Pensão Especial – Lei nº 11.520/2007
+# 🧾 Consulta de Status de Processo - Lei nº 11.520/2007
 
-Este site foi desenvolvido para facilitar o **acesso à informação** sobre os **requerimentos de pensão especial** previstos pela **Lei nº 11.520/2007**, voltada às pessoas atingidas pela hanseníase e seus familiares, que foram submetidos ao isolamento e à internação compulsórios até 31/12/1986.
+Este site foi criado para facilitar o acesso de **pessoas idosas**, com **mobilidade reduzida** ou com **baixa familiaridade digital**, permitindo consultar de forma simples o status dos requerimentos de pensão especial previstos na **Lei nº 11.520/2007**.
 
-## 🎯 Objetivo
-
-O objetivo principal deste projeto é **ampliar a acessibilidade digital** ao status dos processos administrativos relacionados a essa pensão especial. Muitas dessas pessoas são:
-
-- 🧓 **Idosas**
-- 🤝 **Pessoas com mobilidade reduzida**
-- 💻 **Pessoas com baixo letramento digital (deficientes digitais)**
-
-Nem todas conseguem navegar com facilidade em sistemas complexos ou burocráticos, especialmente em portais governamentais mais técnicos.
-
-### ✅ Este site oferece:
-
-- Uma **interface simples, clara e acessível**
-- Busca rápida utilizando apenas os **6 dígitos visíveis do CPF anonimizado** ou o **número do processo**
-- Feedback imediato sobre a **situação do processo**: digitalizado, em andamento, finalizado, etc.
+A base de dados utilizada é pública e disponibilizada pelo Ministério dos Direitos Humanos e da Cidadania.
 
 ---
 
-## 🏛️ Contexto da Base de Dados
+## 🔍 Como funciona?
 
-Os dados utilizados são provenientes do conjunto oficial:
-
-**📂 Requerimentos de Pensão Especial da Lei 11.520 de 2007 – Situação dos processos em análise**  
-➡️ Disponível em: [Portal de Dados Abertos do Governo Federal](https://dados.gov.br)
-
-Esta base reúne informações sobre os requerimentos registrados no Ministério dos Direitos Humanos e da Cidadania. Os dados são **anônimos**, e a base é atualizada mensalmente, pois os processos são primeiramente digitalizados e registrados em um Sistema Eletrônico de Informações antes da publicação.
-
----
-
-## 🛠️ Tecnologias Usadas
-
-- HTML5 + CSS3
-- JavaScript (puro)
-- Python (para conversão da planilha CSV em JSON)
-- Dados públicos em formato CSV (repositório oficial)
+- Permite a busca informando:
+  - Os **6 dígitos visíveis** do CPF (posição 4 a 9 do número original, ex: `685471`)
+  - Ou o **número completo do processo**
+- É possível digitar o **CPF completo**, com ou sem pontos e traço, o sistema usará apenas os dígitos visíveis (posição 4 a 9)
+- Nenhuma informação digitada é armazenada. Tudo roda **100% no navegador do usuário**
 
 ---
 
-## 🤝 Responsabilidade Social
+## 🌐 Acesse o site
 
-Esta aplicação é parte de um esforço para garantir **transparência, reparação histórica** e **acesso digno à informação pública**, respeitando o direito das pessoas atingidas por graves violações de direitos humanos no passado.
+Você pode acessar o projeto por qualquer um dos links abaixo:
 
----
+- ✅ **Vercel (recomendado):**  
+  👉 https://processo-checker-tbzc.vercel.app/
 
-## 📬 Contato da Área Técnica Responsável
-
-- **Ministério dos Direitos Humanos e da Cidadania**
-- **Área Técnica:** NCIA/SNDPD  
-- **E-mail:** ncia.sndpd@mdh.gov.br
+- ✅ **GitHub Pages:**  
+  👉 https://thiagonunes85.github.io/processo-checker/
 
 ---
 
-## 📄 Licença
+## 📂 Base de dados
 
-Este projeto utiliza dados sob a licença:  
-**Open Data Commons Open Database License (ODbL)**  
-Os dados são de uso público e podem ser reutilizados com atribuição apropriada.
+A base de dados `dados.json` foi convertida a partir de um arquivo `.csv` oficial com os seguintes campos:
 
----
+- Nome (iniciais)
+- CPF (anonimizado)
+- Número do Processo
+- Status do Processo
 
-## 🧑‍💻 Deploy
-
-Você pode hospedar este site em serviços como:
-
-- [GitHub Pages](https://pages.github.com)
-- [Netlify](https://app.netlify.com/drop)
-- [Vercel](https://vercel.com)
+Todos os dados são públicos e anonimizados conforme política de dados abertos do governo federal.
 
 ---
 
-💡 **Este site é um pequeno passo para tornar os direitos acessíveis a todos, especialmente àqueles que mais precisam.**
+## 💖 Apoie este projeto
+
+Se este site foi útil para você ou para alguém que você conhece, considere apoiar:
+
+- **Chave Pix:** `thiago.nunes@discente.ufg.br`
+
+Seu apoio contribui para manter e criar mais ferramentas acessíveis como esta 🙏
+
+---
+
+## 📜 Código aberto e legalidade
+
+Este projeto é **código aberto**, disponível no GitHub:
+
+👉 [Ver código no GitHub](https://github.com/thiagonunes85/processo-checker)
+
+Ele cumpre com os princípios de dados abertos, acessibilidade digital e privacidade — nenhuma informação é armazenada, compartilhada ou rastreada.
+
+---
+
+Feito com ❤️ por [Thiago Nunes](mailto:thiago.nunes@discente.ufg.br) – UFG
