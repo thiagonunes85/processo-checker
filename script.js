@@ -24,8 +24,13 @@ function buscar() {
     const entradaNumeros = entrada.replace(/\D/g, '');
     const entradaTexto = normalizarTexto(entrada);
   
+    let fatiaCpfEntrada = '';
+    if (entradaNumeros.length >= 6) {
+      fatiaCpfEntrada = entradaNumeros.slice(-6); // usa os últimos 6 números
+    }
+  
     // Aviso de privacidade
-    if (entradaNumeros.length === 11) {
+    if (entradaNumeros.length >= 11) {
       const aviso = document.createElement('p');
       aviso.style.color = '#666';
       aviso.style.fontSize = '13px';
@@ -38,11 +43,12 @@ function buscar() {
     }
   
     const resultados = dados.filter(item => {
-      const cpfNumeros = item.CPF.replace(/\D/g, '');
-      const faixaCpf = cpfNumeros.slice(3, 9); // posições 4 a 9
+      const matchCPF = item.CPF.match(/\d{3}\.\d{3}/); // extrai padrão 685.471
+      const faixaCpf = matchCPF ? matchCPF[0].replace(/\D/g, '') : ''; // → 685471
+  
       const processoNormalizado = normalizarTexto(item['Número do Processo']);
   
-      const cpfMatch = entradaNumeros.length === 6 && entradaNumeros === faixaCpf;
+      const cpfMatch = fatiaCpfEntrada && fatiaCpfEntrada === faixaCpf;
       const processoMatch = processoNormalizado.includes(entradaTexto);
   
       return cpfMatch || processoMatch;
