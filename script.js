@@ -24,7 +24,7 @@ function buscar() {
     const entradaNumeros = entrada.replace(/\D/g, '');
     const entradaTexto = normalizarTexto(entrada);
   
-    // Aviso se o usuário digitou 11 dígitos (CPF completo)
+    // Aviso de privacidade
     if (entradaNumeros.length === 11) {
       const aviso = document.createElement('p');
       aviso.style.color = '#666';
@@ -38,11 +38,11 @@ function buscar() {
     }
   
     const resultados = dados.filter(item => {
-      const cpfNumeros = item.CPF.replace(/\D/g, ''); // exemplo: XXX.685.471-XX → 685471
-      const faixaCpf = cpfNumeros.slice(3, 9);        // posições 4 a 9
+      const cpfNumeros = item.CPF.replace(/\D/g, '');
+      const faixaCpf = cpfNumeros.slice(3, 9); // posições 4 a 9
       const processoNormalizado = normalizarTexto(item['Número do Processo']);
   
-      const cpfMatch = entradaNumeros.includes(faixaCpf);
+      const cpfMatch = entradaNumeros.length === 6 && entradaNumeros === faixaCpf;
       const processoMatch = processoNormalizado.includes(entradaTexto);
   
       return cpfMatch || processoMatch;
@@ -64,4 +64,5 @@ function buscar() {
       avisoErro.textContent = 'Nenhum processo encontrado com os dados informados.';
       resultadoDiv.appendChild(avisoErro);
     }
-}
+  }
+  
