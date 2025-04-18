@@ -59,6 +59,7 @@
     text-align: left;
   }
   
+  /* Rodapé */
   footer.rodape {
     margin-top: 40px;
     padding: 20px;
@@ -95,5 +96,36 @@
   
   footer.rodape details {
     margin-top: 10px;
+  }
+  
+  /* Doação */
+  .rodape .doacao {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #eef3ff;
+    border: 1px dashed #3370ff;
+    border-radius: 8px;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .rodape .doacao p {
+    margin-bottom: 8px;
+  }
+  
+  .btn-copiar {
+    margin-left: 10px;
+    padding: 4px 10px;
+    font-size: 13px;
+    border: 1px solid #3370ff;
+    border-radius: 6px;
+    background-color: #ffffff;
+    color: #3370ff;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .btn-copiar:hover {
+    background-color: #e0eaff;
   }
   

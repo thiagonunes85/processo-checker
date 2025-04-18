@@ -17,28 +17,33 @@ function buscar() {
   resultadoDiv.innerHTML = '';
 
   if (!entrada || entrada.length < 3) {
-    resultadoDiv.textContent = 'Por favor, insira pelo menos 3 dígitos.';
+    resultadoDiv.textContent = 'Por favor, insira pelo menos 3 caracteres.';
     return;
   }
 
   const entradaNumeros = entrada.replace(/\D/g, '');
+  const entradaTexto = normalizarTexto(entrada);
 
+  // Aviso ao digitar CPF completo
   if (entradaNumeros.length === 11) {
     const aviso = document.createElement('p');
-    aviso.style.color = '#888';
-    aviso.style.fontSize = '14px';
-    aviso.style.marginTop = '10px';
-    aviso.innerHTML = '🔐 Detectamos que você digitou o CPF completo. Por segurança, só usamos os dígitos de posição 4 a 9 na busca.';
+    aviso.style.color = '#666';
+    aviso.style.fontSize = '13px';
+    aviso.style.margin = '10px 0';
+    aviso.innerHTML = `
+      🔐 Detectamos que você digitou o CPF completo. Por segurança, <strong>apenas os dígitos de posição 4 a 9</strong> são usados na busca.<br>
+      Nenhum dado digitado é armazenado. O código é aberto e está em conformidade com a legislação vigente.
+    `;
     resultadoDiv.appendChild(aviso);
   }
 
   const resultados = dados.filter(item => {
     const cpfNumeros = item.CPF.replace(/\D/g, '');
-    const faixaCpf = cpfNumeros.slice(3, 9);
+    const faixaCpf = cpfNumeros.slice(3, 9); // dígitos 4 a 9
     const processoNormalizado = normalizarTexto(item['Número do Processo']);
 
-    const cpfMatch = faixaCpf.includes(entradaNumeros);
-    const processoMatch = processoNormalizado.includes(normalizarTexto(entrada));
+    const cpfMatch = faixaCpf.includes(entradaNumeros.slice(-6));
+    const processoMatch = processoNormalizado.includes(entradaTexto);
 
     return cpfMatch || processoMatch;
   });
@@ -60,3 +65,15 @@ function buscar() {
     resultadoDiv.appendChild(avisoErro);
   }
 }
+
+function copiarPix() {
+    const chave = document.getElementById("chavePix").textContent;
+    navigator.clipboard.writeText(chave).then(() => {
+      const aviso = document.getElementById("aviso-copiado");
+      aviso.style.display = 'inline';
+      setTimeout(() => {
+        aviso.style.display = 'none';
+      }, 3000);
+    });
+  }
+  
