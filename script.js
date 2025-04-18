@@ -21,15 +21,16 @@ function buscar() {
       return;
     }
   
-    const entradaNumeros = entrada.replace(/\D/g, '');
+    const entradaNumeros = entrada.replace(/\D/g, ''); // remove pontos e traços
     const entradaTexto = normalizarTexto(entrada);
   
     let fatiaCpfEntrada = '';
-    if (entradaNumeros.length >= 6) {
-      fatiaCpfEntrada = entradaNumeros.slice(-6); // usa os últimos 6 números
+    if (entradaNumeros.length >= 9) {
+      fatiaCpfEntrada = entradaNumeros.slice(3, 9); // posição 4 a 9
+    } else if (entradaNumeros.length === 6) {
+      fatiaCpfEntrada = entradaNumeros;
     }
   
-    // Aviso de privacidade
     if (entradaNumeros.length >= 11) {
       const aviso = document.createElement('p');
       aviso.style.color = '#666';
@@ -43,12 +44,11 @@ function buscar() {
     }
   
     const resultados = dados.filter(item => {
-      const matchCPF = item.CPF.match(/\d{3}\.\d{3}/); // extrai padrão 685.471
+      const matchCPF = item.CPF.match(/\d{3}\.\d{3}/); // extrai 685.471
       const faixaCpf = matchCPF ? matchCPF[0].replace(/\D/g, '') : ''; // → 685471
-  
       const processoNormalizado = normalizarTexto(item['Número do Processo']);
   
-      const cpfMatch = fatiaCpfEntrada && fatiaCpfEntrada === faixaCpf;
+      const cpfMatch = fatiaCpfEntrada === faixaCpf;
       const processoMatch = processoNormalizado.includes(entradaTexto);
   
       return cpfMatch || processoMatch;
