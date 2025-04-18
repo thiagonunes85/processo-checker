@@ -21,10 +21,9 @@ function buscar() {
     return;
   }
 
-  const entradaNumeros = entrada.replace(/\D/g, '');
-  const entradaTexto = normalizarTexto(entrada);
+  const entradaNumeros = entrada.replace(/\D/g, ''); // apenas números
 
-  // Aviso ao digitar CPF completo
+  // 🔐 Aviso se CPF completo foi digitado
   if (entradaNumeros.length === 11) {
     const aviso = document.createElement('p');
     aviso.style.color = '#666';
@@ -38,12 +37,12 @@ function buscar() {
   }
 
   const resultados = dados.filter(item => {
-    const cpfNumeros = item.CPF.replace(/\D/g, '');
-    const faixaCpf = cpfNumeros.slice(3, 9); // dígitos 4 a 9
+    const cpfNumeros = item.CPF.replace(/\D/g, '');      // ex: XXX.685.471-XX → 685471
+    const faixaCpf = cpfNumeros.slice(3, 9);             // posições 4 a 9
     const processoNormalizado = normalizarTexto(item['Número do Processo']);
 
-    const cpfMatch = faixaCpf.includes(entradaNumeros.slice(-6));
-    const processoMatch = processoNormalizado.includes(entradaTexto);
+    const cpfMatch = faixaCpf && entradaNumeros.includes(faixaCpf);
+    const processoMatch = processoNormalizado.includes(normalizarTexto(entrada));
 
     return cpfMatch || processoMatch;
   });
@@ -65,15 +64,3 @@ function buscar() {
     resultadoDiv.appendChild(avisoErro);
   }
 }
-
-function copiarPix() {
-    const chave = document.getElementById("chavePix").textContent;
-    navigator.clipboard.writeText(chave).then(() => {
-      const aviso = document.getElementById("aviso-copiado");
-      aviso.style.display = 'inline';
-      setTimeout(() => {
-        aviso.style.display = 'none';
-      }, 3000);
-    });
-  }
-  
