@@ -17,6 +17,22 @@
 
     <div id="resultado"></div>
 
+    <!-- Legenda dos Status -->
+    <div id="legenda-status" style="display: none; margin-top: 30px; font-size: 14px; text-align: left;">
+      <h4>📘 Legenda dos Status do Processo:</h4>
+      <ul style="margin-top: 10px; line-height: 1.6;">
+        <li><strong>1. Digitalizado</strong> – O requerimento já foi digitalizado e está no sistema.</li>
+        <li><strong>2. Em análise preliminar</strong> – Em verificação inicial de documentos.</li>
+        <li><strong>3. Pronto para distribuição</strong> – Aguardando envio para relatoria.</li>
+        <li><strong>4. Distribuído para relator</strong> – Um relator já está elaborando parecer.</li>
+        <li><strong>5. Aguardando votação</strong> – Parecer pronto, aguardando votação/publicação.</li>
+        <li><strong>6. Arquivado – FAL</strong> – Fora da abrangência da lei (ex: nascido após 31/12/1986 ou já recebe o benefício).</li>
+        <li><strong>7. Arquivado – Deferido</strong> – Pedido foi aceito e arquivado.</li>
+        <li><strong>8. Arquivado – Indeferido</strong> – Pedido foi negado e arquivado.</li>
+      </ul>
+    </div>
+
+    <!-- Rodapé -->
     <footer class="rodape">
       <p>
         🔒 Este site foi criado para facilitar o acesso de pessoas idosas, com mobilidade reduzida ou pouca familiaridade digital à situação de requerimentos da pensão especial prevista na <strong>Lei nº 11.520/2007</strong>.
@@ -25,8 +41,8 @@
       <details>
         <summary>ℹ️ Sobre os dados utilizados</summary>
         <p>
-          Os dados são extraídos da base pública do Ministério dos Direitos Humanos e da Cidadania, referente aos requerimentos de pensão especial de pessoas atingidas pela hanseníase e seus familiares.
-          <br>Fonte oficial: <a href="https://dados.gov.br/dados/conjuntos-dados/requerimentos-de-pensao-especial-da-lei-11-520-de-2007" target="_blank">dados.gov.br</a>
+          Os dados são extraídos da base pública do Ministério dos Direitos Humanos e da Cidadania.
+          <br>Fonte oficial: <a href="https://dados.gov.br" target="_blank">dados.gov.br</a>
         </p>
       </details>
 
@@ -38,16 +54,14 @@
       <div class="doacao">
         <p><strong>💡 Gostou do site? Apoie este projeto!</strong></p>
         <p>Você pode contribuir com qualquer valor para ajudar no desenvolvimento de ferramentas acessíveis como esta.</p>
-        <p>
-          <strong>Chave Pix:</strong> 
-          <span id="chavePix">thiago.nunes@discente.ufg.br</span>
+        <p><strong>Chave Pix:</strong> <span id="chavePix">thiago.nunes@discente.ufg.br</span>
           <button onclick="copiarPix()" class="btn-copiar">📋 Copiar</button>
         </p>
-        <p id="aviso-copiado" style="display:none; color:green; font-size:13px; margin-top:5px;">
-          Chave Pix copiada com sucesso, obrigado!
-        </p>
+        <p id="aviso-copiado" style="display:none; color:green; font-size:13px; margin-top:5px;">Chave Pix copiada com sucesso!</p>
       </div>
-      
+    </footer>
+  </main>
+
   <script src="script.js"></script>
 </body>
 </html>
