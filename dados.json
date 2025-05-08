@@ -57,7 +57,7 @@
     "Nome": "L.A.G",
     "CPF": "XXX.082.146-XX",
     "Número do Processo": "00135.212660/2024-91",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "M.Z.A.D.S",
@@ -207,7 +207,7 @@
     "Nome": "M.G.D.S",
     "CPF": "XXX.031.182-XX",
     "Número do Processo": "00135.208835/2025-47",
-    "Status": "5. Aguardando votaï¿½ï¿½o "
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "N.N.D.A",
@@ -279,7 +279,7 @@
     "Nome": "M.N.C.A",
     "CPF": "XXX.172.912-XX",
     "Número do Processo": "00135.212284/2025-16",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.F.M",
@@ -303,7 +303,7 @@
     "Nome": "F.D.C.D.M.D",
     "CPF": "XXX.559.102-XX",
     "Número do Processo": "00135.208297/2025-91",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.T.D.S",
@@ -351,7 +351,7 @@
     "Nome": "M.A.G.D.S",
     "CPF": "XXX.873.027-XX",
     "Número do Processo": "00135.208797/2025-22",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.D.S",
@@ -501,13 +501,13 @@
     "Nome": "M.S.D.V.S",
     "CPF": "XXX.289.133-XX",
     "Número do Processo": "00135.206836/2025-57",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.G.P",
     "CPF": "XXX.703.436-XX",
     "Número do Processo": "00135.201798/2025-46",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "J.F.D.M.C",
@@ -525,13 +525,13 @@
     "Nome": "J.W.D.L",
     "CPF": "XXX.647.598-XX",
     "Número do Processo": "00135.206977/2025-70",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.B.N",
     "CPF": "XXX.097.446-XX",
     "Número do Processo": "00135.201556/2025-52",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.P.B",
@@ -591,7 +591,7 @@
     "Nome": "L.N.M",
     "CPF": "XXX.136.356-XX",
     "Número do Processo": "00135.207744/2025-94",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "T.F.S",
@@ -657,13 +657,13 @@
     "Nome": "M.A.F.M",
     "CPF": "XXX.648.991-XX",
     "Número do Processo": "00135.204942/2025-04",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "I.D.A.C",
     "CPF": "XXX.103.112-XX",
     "Número do Processo": "00135.204559/2025-48",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.S.D.C",
@@ -681,7 +681,7 @@
     "Nome": "D.C.D.S",
     "CPF": "XXX.495.541-XX",
     "Número do Processo": "00135.208361/2025-33",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.M.D.N",
@@ -711,7 +711,7 @@
     "Nome": "M.D.P.N.V",
     "CPF": "XXX.300.267-XX",
     "Número do Processo": "00135.211220/2025-06",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "A.P.A",
@@ -747,13 +747,13 @@
     "Nome": "J.H.V.F",
     "CPF": "XXX.543.588-XX",
     "Número do Processo": "00135.204656/2025-31",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.J.D.S.S",
     "CPF": "XXX.355.103-XX",
     "Número do Processo": "00135.211880/2025-89",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "E.G",
@@ -771,7 +771,7 @@
     "Nome": "M.C.D.O",
     "CPF": "XXX.982.406-XX",
     "Número do Processo": "00135.211593/2025-79",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.B.V.S",
@@ -783,7 +783,7 @@
     "Nome": "A.J.C.D.A",
     "CPF": "XXX.231.384-XX",
     "Número do Processo": "00135.207395/2025-19",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.M.D.S",
@@ -849,7 +849,7 @@
     "Nome": "M.C.L.D.O.M",
     "CPF": "XXX.102.002-XX",
     "Número do Processo": "00135.210451/2025-94",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "J.L.G",
@@ -885,7 +885,7 @@
     "Nome": "D.F.D.S",
     "CPF": "XXX.734.874-XX",
     "Número do Processo": "00135.210486/2025-23",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.G.C",
@@ -915,7 +915,7 @@
     "Nome": "M.D.O.R",
     "CPF": "XXX.892.998-XX",
     "Número do Processo": "00135.202540/2025-67",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "H.S.C",
@@ -975,7 +975,7 @@
     "Nome": "Z.P.D.L.M",
     "CPF": "XXX.602.672-XX",
     "Número do Processo": "00135.208300/2025-76",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "J.A.L",
@@ -1095,7 +1095,7 @@
     "Nome": "J.C.D.S",
     "CPF": "XXX.735.594-XX",
     "Número do Processo": "00135.211490/2025-17",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "V.S.E.S",
@@ -1131,7 +1131,7 @@
     "Nome": "C.L.M",
     "CPF": "XXX.274.506-XX",
     "Número do Processo": "00135.205365/2025-60",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.R.D.M",
@@ -1149,7 +1149,7 @@
     "Nome": "M.C.D.A.T",
     "CPF": "XXX.564.442-XX",
     "Número do Processo": "00135.210446/2025-81",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.C.G",
@@ -1173,7 +1173,7 @@
     "Nome": "J.P.D.O",
     "CPF": "XXX.037.346-XX",
     "Número do Processo": "00135.201039/2025-83",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "L.R.M",
@@ -1215,7 +1215,7 @@
     "Nome": "V.T",
     "CPF": "XXX.401.507-XX",
     "Número do Processo": "00135.202220/2025-15",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "I.G",
@@ -1257,7 +1257,7 @@
     "Nome": "J.B.P",
     "CPF": "XXX.975.476-XX",
     "Número do Processo": "00135.206542/2025-25",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.A.B.F",
@@ -1281,7 +1281,7 @@
     "Nome": "V.G.D",
     "CPF": "XXX.567.918-XX",
     "Número do Processo": "00135.201859/2025-75",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.L.D.L",
@@ -1305,7 +1305,7 @@
     "Nome": "J.G.D.S",
     "CPF": "XXX.871.779-XX",
     "Número do Processo": "00135.204556/2025-12",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.D.S.A",
@@ -1323,7 +1323,7 @@
     "Nome": "F.M.P",
     "CPF": "XXX.533.046-XX",
     "Número do Processo": "00135.201875/2025-68",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "M.D.F.C",
@@ -1341,7 +1341,7 @@
     "Nome": "A.R.C",
     "CPF": "XXX.710.837-XX",
     "Número do Processo": "00135.204357/2025-04",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "A.N",
@@ -1353,7 +1353,7 @@
     "Nome": "M.S.D.S",
     "CPF": "XXX.867.516-XX",
     "Número do Processo": "00135.202532/2025-11",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.L.Q",
@@ -1365,7 +1365,7 @@
     "Nome": "M.J.D.S.S",
     "CPF": "XXX.385.576-XX",
     "Número do Processo": "00135.205002/2025-24",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "P.P.D.V",
@@ -1401,7 +1401,7 @@
     "Nome": "A.E.D.C",
     "CPF": "XXX.037.007-XX",
     "Número do Processo": "00135.202650/2025-29",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.M",
@@ -1431,7 +1431,7 @@
     "Nome": "J.P.D.S",
     "CPF": "XXX.341.022-XX",
     "Número do Processo": "00135.209291/2025-31",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "M.A.D.L",
@@ -1473,7 +1473,7 @@
     "Nome": "G.R.D.S",
     "CPF": "XXX.964.246-XX",
     "Número do Processo": "00135.209607/2025-94",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "A.C.D.S",
@@ -1485,7 +1485,7 @@
     "Nome": "A.V.M",
     "CPF": "XXX.527.262-XX",
     "Número do Processo": "00135.211591/2025-80",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "L.S.D",
@@ -1521,13 +1521,13 @@
     "Nome": "M.I.D.S",
     "CPF": "XXX.556.606-XX",
     "Número do Processo": "00135.209658/2025-16",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.B.P.D.S",
     "CPF": "XXX.821.967-XX",
     "Número do Processo": "00135.202999/2025-61",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.S.N",
@@ -1569,7 +1569,7 @@
     "Nome": "E.D.G",
     "CPF": "XXX.086.888-XX",
     "Número do Processo": "00135.210220/2025-81",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "B.M.A",
@@ -1659,7 +1659,7 @@
     "Nome": "M.M.D.S",
     "CPF": "XXX.980.282-XX",
     "Número do Processo": "00135.203654/2025-24",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "O.R.D.S",
@@ -1677,7 +1677,7 @@
     "Nome": "J.D.M.P",
     "CPF": "XXX.593.292-XX",
     "Número do Processo": "00135.208837/2025-36",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "N.C.D.S",
@@ -1893,7 +1893,7 @@
     "Nome": "R.A",
     "CPF": "XXX.365.724-XX",
     "Número do Processo": "00135.209412/2025-44",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.B.F",
@@ -1905,7 +1905,7 @@
     "Nome": "N.D.R.L.D.S",
     "CPF": "XXX.306.309-XX",
     "Número do Processo": "00135.211304/2025-31",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.M.J",
@@ -1935,7 +1935,7 @@
     "Nome": "M.D.S.R",
     "CPF": "XXX.818.518-XX",
     "Número do Processo": "00135.201626/2025-72",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.L.C.A",
@@ -1959,13 +1959,13 @@
     "Nome": "J.J.B.F",
     "CPF": "XXX.973.117-XX",
     "Número do Processo": "00135.201036/2025-40",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "M.D.G.R.C",
     "CPF": "XXX.649.336-XX",
     "Número do Processo": "00135.203293/2025-16",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.R.D.M",
@@ -2049,7 +2049,7 @@
     "Nome": "A.L.P",
     "CPF": "XXX.795.887-XX",
     "Número do Processo": "00135.204774/2025-49",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.G.A.D.M",
@@ -2085,7 +2085,7 @@
     "Nome": "C.T.D.S",
     "CPF": "XXX.935.623-XX",
     "Número do Processo": "00135.208727/2025-74",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "A.A.O.D.N",
@@ -2109,7 +2109,7 @@
     "Nome": "F.D.P.F",
     "CPF": "XXX.832.011-XX",
     "Número do Processo": "00135.208921/2025-50",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "M.M.V",
@@ -2145,7 +2145,7 @@
     "Nome": "J.I.F",
     "CPF": "XXX.318.727-XX",
     "Número do Processo": "00135.208543/2025-12",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.R.D.C",
@@ -2163,7 +2163,7 @@
     "Nome": "J.L.L",
     "CPF": "XXX.302.336-XX",
     "Número do Processo": "00135.210154/2025-49",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "L.S.L",
@@ -2193,7 +2193,7 @@
     "Nome": "C.D.M",
     "CPF": "XXX.058.957-XX",
     "Número do Processo": "00135.210268/2025-99",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "M.I.D.R.S",
@@ -2289,7 +2289,7 @@
     "Nome": "N.F.D.F",
     "CPF": "XXX.744.056-XX",
     "Número do Processo": "00135.205210/2025-23",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.N.D.S.B",
@@ -2325,13 +2325,13 @@
     "Nome": "G.P",
     "CPF": "XXX.445.999-XX",
     "Número do Processo": "00135.202237/2025-64",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "B.G.P",
     "CPF": "XXX.974.837-XX",
     "Número do Processo": "00135.211392/2025-71",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.D.G.P",
@@ -2367,7 +2367,7 @@
     "Nome": "L.F.D.C",
     "CPF": "XXX.651.842-XX",
     "Número do Processo": "00135.204440/2025-75",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.G.B.F",
@@ -2391,7 +2391,7 @@
     "Nome": "S.J.D.C",
     "CPF": "XXX.670.934-XX",
     "Número do Processo": "00135.211761/2025-26",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.C.D.A",
@@ -2409,7 +2409,7 @@
     "Nome": "M.A.G.D.A",
     "CPF": "XXX.144.886-XX",
     "Número do Processo": "00135.204523/2025-64",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "H.G.P",
@@ -2439,7 +2439,7 @@
     "Nome": "F.P.B",
     "CPF": "XXX.335.606-XX",
     "Número do Processo": "00135.201778/2025-75",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.G.R.D.S",
@@ -2469,13 +2469,13 @@
     "Nome": "A.P.L",
     "CPF": "XXX.783.998-XX",
     "Número do Processo": "90790.000883/2023-96",
-    "Status": "5. Aguardando votaï¿½ï¿½o "
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "G.B.R",
     "CPF": "XXX.085.166-XX",
     "Número do Processo": "00135.202149/2025-62",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.S.M",
@@ -2505,7 +2505,7 @@
     "Nome": "S.B",
     "CPF": "XXX.832.006-XX",
     "Número do Processo": "00135.208941/2025-21",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.S.D.L",
@@ -2535,7 +2535,7 @@
     "Nome": "J.G",
     "CPF": "XXX.083.286-XX",
     "Número do Processo": "00135.206769/2025-71",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.M",
@@ -2577,7 +2577,7 @@
     "Nome": "M.A.D.A",
     "CPF": "XXX.735.926-XX",
     "Número do Processo": "00135.206611/2025-09",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "G.T.N",
@@ -2589,7 +2589,7 @@
     "Nome": "M.N.D.S.M",
     "CPF": "XXX.071.962-XX",
     "Número do Processo": "00135.203578/2025-57",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.L",
@@ -2601,7 +2601,7 @@
     "Nome": "M.C.D.S",
     "CPF": "XXX.341.746-XX",
     "Número do Processo": "00135.207600/2025-38",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.M.C",
@@ -2625,7 +2625,7 @@
     "Nome": "J.D.S.R",
     "CPF": "XXX.547.563-XX",
     "Número do Processo": "00135.211427/2025-72",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.L.R.M",
@@ -2709,7 +2709,7 @@
     "Nome": "M.B.D.R",
     "CPF": "XXX.933.108-XX",
     "Número do Processo": "00135.204599/2025-90",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.S",
@@ -2763,7 +2763,7 @@
     "Nome": "J.L.C",
     "CPF": "XXX.097.076-XX",
     "Número do Processo": "00135.209763/2025-55",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.D.C.D.S",
@@ -2805,7 +2805,7 @@
     "Nome": "I.D.O.A",
     "CPF": "XXX.316.196-XX",
     "Número do Processo": "00135.205959/2025-71",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.P.M",
@@ -2883,7 +2883,7 @@
     "Nome": "M.D.N.B.S",
     "CPF": "XXX.274.852-XX",
     "Número do Processo": "00135.207339/2025-76",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.D.D.O",
@@ -2895,13 +2895,13 @@
     "Nome": "R.N.D.S",
     "CPF": "XXX.052.781-XX",
     "Número do Processo": "00135.202309/2025-73",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.R.P",
     "CPF": "XXX.639.868-XX",
     "Número do Processo": "00135.200811/2025-40",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.S.C",
@@ -2985,7 +2985,7 @@
     "Nome": "P.C",
     "CPF": "XXX.294.019-XX",
     "Número do Processo": "00135.202940/2025-72",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.D.S",
@@ -3003,13 +3003,13 @@
     "Nome": "O.N.D.S",
     "CPF": "XXX.935.902-XX",
     "Número do Processo": "00135.209213/2025-36",
-    "Status": "5. Aguardando votaï¿½ï¿½o "
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "F.V.D.M",
     "CPF": "XXX.678.362-XX",
     "Número do Processo": "00135.212200/2025-44",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.M.D.L",
@@ -3027,7 +3027,7 @@
     "Nome": "L.A.S.A",
     "CPF": "XXX.143.011-XX",
     "Número do Processo": "00135.200794/2025-41",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "M.E.D.S.F",
@@ -3051,7 +3051,7 @@
     "Nome": "J.F.D.C",
     "CPF": "XXX.283.442-XX",
     "Número do Processo": "00135.203518/2025-34",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "A.G.D.O",
@@ -3075,7 +3075,7 @@
     "Nome": "M.D.S.R",
     "CPF": "XXX.156.158-XX",
     "Número do Processo": "00135.205699/2025-33",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.S.D",
@@ -3087,7 +3087,7 @@
     "Nome": "S.M.M.D.C",
     "CPF": "XXX.623.148-XX",
     "Número do Processo": "00135.201972/2025-51",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.C.M.D.A",
@@ -3135,7 +3135,7 @@
     "Nome": "N.A.M",
     "CPF": "XXX.958.678-XX",
     "Número do Processo": "00135.201590/2025-27",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.V.D.O",
@@ -3177,7 +3177,7 @@
     "Nome": "M.M.D.S",
     "CPF": "XXX.396.314-XX",
     "Número do Processo": "00135.206100/2025-89",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "M.D.C.S",
@@ -3189,7 +3189,7 @@
     "Nome": "O.R.D.A",
     "CPF": "XXX.072.216-XX",
     "Número do Processo": "00135.201241/2020-09",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "P.R.B",
@@ -3207,25 +3207,25 @@
     "Nome": "P.G.B",
     "CPF": "XXX.753.277-XX",
     "Número do Processo": "00135.205701/2025-74",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "A.G",
     "CPF": "XXX.697.577-XX",
     "Número do Processo": "00135.208506/2025-04",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.R.C.D.S",
     "CPF": "XXX.029.406-XX",
     "Número do Processo": "00135.209444/2025-40",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.D.S",
     "CPF": "XXX.453.743-XX",
     "Número do Processo": "00135.204324/2025-56",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.M.P",
@@ -3237,7 +3237,7 @@
     "Nome": "M.V.D.S",
     "CPF": "XXX.704.022-XX",
     "Número do Processo": "00135.206465/2025-11",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.M.N",
@@ -3267,13 +3267,13 @@
     "Nome": "L.R.D.S",
     "CPF": "XXX.401.994-XX",
     "Número do Processo": "00135.211748/2025-77",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "F.S.P",
     "CPF": "XXX.974.763-XX",
     "Número do Processo": "00135.202912/2025-55",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "V.A.D.L",
@@ -3285,7 +3285,7 @@
     "Nome": "A.R.F",
     "CPF": "XXX.750.126-XX",
     "Número do Processo": "00135.200599/2025-11",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.G.D.S",
@@ -3315,13 +3315,13 @@
     "Nome": "M.A.O",
     "CPF": "XXX.781.103-XX",
     "Número do Processo": "00135.207207/2025-44",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.M.D.S",
     "CPF": "XXX.644.186-XX",
     "Número do Processo": "00135.202353/2025-83",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.C.C.S",
@@ -3339,7 +3339,7 @@
     "Nome": "J.G",
     "CPF": "XXX.721.608-XX",
     "Número do Processo": "00135.202171/2025-11",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "N.M.D.C.H",
@@ -3381,7 +3381,7 @@
     "Nome": "S.R.D.O",
     "CPF": "XXX.041.592-XX",
     "Número do Processo": "00135.210454/2025-28",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.P.D.S",
@@ -3423,7 +3423,7 @@
     "Nome": "J.P.D.O",
     "CPF": "XXX.948.558-XX",
     "Número do Processo": "00135.209268/2025-46",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.I",
@@ -3435,7 +3435,7 @@
     "Nome": "J.E.P",
     "CPF": "XXX.354.856-XX",
     "Número do Processo": "00135.209659/2025-61",
-    "Status": "5. Aguardando votaï¿½ï¿½o "
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "M.C.D.C",
@@ -3447,7 +3447,7 @@
     "Nome": "J.M.S",
     "CPF": "XXX.033.377-XX",
     "Número do Processo": "00135.210052/2025-23",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.P.D.S",
@@ -3471,7 +3471,7 @@
     "Nome": "L.C.D.A",
     "CPF": "XXX.073.887-XX",
     "Número do Processo": "00135.209337/2025-11",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "G.B.V",
@@ -3483,13 +3483,13 @@
     "Nome": "M.F.D.S",
     "CPF": "XXX.595.866-XX",
     "Número do Processo": "00135.201510/2025-33",
-    "Status": "5. Aguardando votaï¿½ï¿½o "
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "J.F",
     "CPF": "XXX.108.596-XX",
     "Número do Processo": "00135.207564/2025-11",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.S.D",
@@ -3591,7 +3591,7 @@
     "Nome": "Z.E.L.D.S",
     "CPF": "XXX.460.664-XX",
     "Número do Processo": "00135.205209/2025-07",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.J.P",
@@ -3615,7 +3615,7 @@
     "Nome": "M.E.D.F.O",
     "CPF": "XXX.911.723-XX",
     "Número do Processo": "00135.202425/2025-92",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.L.D.J",
@@ -3633,7 +3633,7 @@
     "Nome": "M.C",
     "CPF": "XXX.408.408-XX",
     "Número do Processo": "00135.203254/2025-19",
-    "Status": "5. Aguardando votaï¿½ï¿½o "
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "N.T.S",
@@ -3657,7 +3657,7 @@
     "Nome": "R.N.R",
     "CPF": "XXX.047.452-XX",
     "Número do Processo": "00135.210926/2025-42",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.J.C",
@@ -3669,7 +3669,7 @@
     "Nome": "F.M.D.S.S",
     "CPF": "XXX.628.203-XX",
     "Número do Processo": "00135.201939/2025-21",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "M.J.A.D.S",
@@ -3699,7 +3699,7 @@
     "Nome": "R.R.J",
     "CPF": "XXX.888.446-XX",
     "Número do Processo": "00135.205435/2025-80",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "Z.G.D.M",
@@ -3735,7 +3735,7 @@
     "Nome": "D.M.D.S",
     "CPF": "XXX.462.162-XX",
     "Número do Processo": "00135.203359/2025-78",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "F.M.D.C",
@@ -3765,7 +3765,7 @@
     "Nome": "R.N.D.C.L",
     "CPF": "XXX.732.692-XX",
     "Número do Processo": "00135.209454/2025-85",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.M.E",
@@ -3813,13 +3813,13 @@
     "Nome": "A.G.N",
     "CPF": "XXX.927.306-XX",
     "Número do Processo": "00135.207112/2025-21",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.F.P.L",
     "CPF": "XXX.255.203-XX",
     "Número do Processo": "00135.211343/2025-39",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.S.S",
@@ -3951,7 +3951,7 @@
     "Nome": "P.D.S.P",
     "CPF": "XXX.293.576-XX",
     "Número do Processo": "00135.207423/2025-90",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.C.S.D.F",
@@ -3975,7 +3975,7 @@
     "Nome": "M.D.O.D",
     "CPF": "XXX.176.946-XX",
     "Número do Processo": "00135.210039/2025-74",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "V.G.B",
@@ -3993,7 +3993,7 @@
     "Nome": "M.D.P.D.R.D.C",
     "CPF": "XXX.151.167-XX",
     "Número do Processo": "00135.203778/2025-18",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.C.D.S",
@@ -4029,7 +4029,7 @@
     "Nome": "T.C.A",
     "CPF": "XXX.063.336-XX",
     "Número do Processo": "00135.209964/2025-52",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.A.V",
@@ -4065,7 +4065,7 @@
     "Nome": "G.L.D.S",
     "CPF": "XXX.776.732-XX",
     "Número do Processo": "00135.204112/2025-79",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.G.C.E.S",
@@ -4137,7 +4137,7 @@
     "Nome": "M.H.P.A",
     "CPF": "XXX.071.612-XX",
     "Número do Processo": "00135.207333/2025-07",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.S.B",
@@ -4173,13 +4173,13 @@
     "Nome": "M.B.R",
     "CPF": "XXX.399.218-XX",
     "Número do Processo": "00135.201474/2025-16",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.M.B.D.S",
     "CPF": "XXX.224.907-XX",
     "Número do Processo": "00135.201496/2025-78",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.D.S.E",
@@ -4191,7 +4191,7 @@
     "Nome": "M.D.C.M",
     "CPF": "XXX.480.662-XX",
     "Número do Processo": "00135.208857/2025-15",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.I.P",
@@ -4245,7 +4245,7 @@
     "Nome": "B.A.D.S",
     "CPF": "XXX.978.418-XX",
     "Número do Processo": "00135.208839/2025-25",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.H.O.N",
@@ -4299,13 +4299,13 @@
     "Nome": "D.F.D.S",
     "CPF": "XXX.663.717-XX",
     "Número do Processo": "00135.201550/2025-85",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.P.D.S",
     "CPF": "XXX.828.976-XX",
     "Número do Processo": "00135.207481/2025-13",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.A.D.P",
@@ -4323,13 +4323,13 @@
     "Nome": "J.G.D.R",
     "CPF": "XXX.458.962-XX",
     "Número do Processo": "00135.207625/2025-31",
-    "Status": "2. Em anï¿½lise preliminar "
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.A.D.S",
     "CPF": "XXX.472.267-XX",
     "Número do Processo": "00135.208329/2025-58",
-    "Status": "4. Distribuï¿½do para relator "
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "J.N.Q",
@@ -4455,7 +4455,7 @@
     "Nome": "M.S.F.C",
     "CPF": "XXX.195.220-XX",
     "Número do Processo": "00135.209705/2025-21",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.V",
@@ -4659,7 +4659,7 @@
     "Nome": "M.B.C",
     "CPF": "XXX.678.117-XX",
     "Número do Processo": "00135.208505/2025-51",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.C.M.S",
@@ -4743,7 +4743,7 @@
     "Nome": "V.G.L",
     "CPF": "XXX.208.738-XX",
     "Número do Processo": "00135.209660/2025-95",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.A.D.A",
@@ -4785,7 +4785,7 @@
     "Nome": "J.L.F",
     "CPF": "XXX.624.458-XX",
     "Número do Processo": "00135.210316/2025-49",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.F.M.S",
@@ -4863,7 +4863,7 @@
     "Nome": "M.J.M.D.S",
     "CPF": "XXX.335.396-XX",
     "Número do Processo": "00135.204124/2025-01",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "T.N.A.R",
@@ -5127,7 +5127,7 @@
     "Nome": "J.A.D.R",
     "CPF": "XXX.448.456-XX",
     "Número do Processo": "00135.200890/2025-99",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "A.J.G",
@@ -5145,7 +5145,7 @@
     "Nome": "E.M.D.S",
     "CPF": "XXX.577.828-XX",
     "Número do Processo": "00135.202591/2025-99",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.L.D.S",
@@ -5157,7 +5157,7 @@
     "Nome": "O.D.J.N",
     "CPF": "XXX.114.238-XX",
     "Número do Processo": "00135.201641/2025-11",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "J.A.D.O",
@@ -5319,13 +5319,13 @@
     "Nome": "M.D.N.D.S.M",
     "CPF": "XXX.703.072-XX",
     "Número do Processo": "00135.209267/2025-00",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "T.D.J.J.D.B",
     "CPF": "XXX.199.887-XX",
     "Número do Processo": "00135.203805/2025-44",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "I.C.R",
@@ -5337,7 +5337,7 @@
     "Nome": "L.M.D.S",
     "CPF": "XXX.460.877-XX",
     "Número do Processo": "00135.209340/2025-35",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.D.S",
@@ -5367,7 +5367,7 @@
     "Nome": "J.D.O",
     "CPF": "XXX.255.737-XX",
     "Número do Processo": "00135.208223/2025-54",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.F.D",
@@ -5625,7 +5625,7 @@
     "Nome": "J.R.F",
     "CPF": "XXX.128.207-XX",
     "Número do Processo": "00135.200927/2025-89",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "M.A.R",
@@ -5727,7 +5727,7 @@
     "Nome": "T.F.N",
     "CPF": "XXX.468.416-XX",
     "Número do Processo": "00135.203398/2025-75",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.T.P.D.A",
@@ -5757,7 +5757,7 @@
     "Nome": "E.A.D.S",
     "CPF": "XXX.102.588-XX",
     "Número do Processo": "00135.203029/2025-82",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.E.P",
@@ -5937,7 +5937,7 @@
     "Nome": "A.D.C.E.D.G",
     "CPF": "XXX.971.688-XX",
     "Número do Processo": "00135.203288/2025-11",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "G.C.D.S",
@@ -6087,7 +6087,7 @@
     "Nome": "M.L.V",
     "CPF": "XXX.222.197-XX",
     "Número do Processo": "00135.206777/2025-17",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.A.D.S",
@@ -6147,7 +6147,7 @@
     "Nome": "M.H.M",
     "CPF": "XXX.113.328-XX",
     "Número do Processo": "00135.207018/2025-71",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "N.C.D.S",
@@ -6159,7 +6159,7 @@
     "Nome": "A.J.M",
     "CPF": "XXX.287.398-XX",
     "Número do Processo": "00135.203873/2025-11",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.R.S",
@@ -6315,7 +6315,7 @@
     "Nome": "E.L.D.S",
     "CPF": "XXX.936.167-XX",
     "Número do Processo": "00135.208330/2025-82",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.C.D.S",
@@ -6459,13 +6459,13 @@
     "Nome": "O.F.A",
     "CPF": "XXX.878.297-XX",
     "Número do Processo": "00135.208507/2025-41",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.E.C.D.N",
     "CPF": "XXX.081.686-XX",
     "Número do Processo": "00135.209531/2025-05",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.M.B.D.S",
@@ -6507,7 +6507,7 @@
     "Nome": "M.D.C.A",
     "CPF": "XXX.326.536-XX",
     "Número do Processo": "00135.203333/2025-20",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.M.P.M",
@@ -6519,7 +6519,7 @@
     "Nome": "G.Z",
     "CPF": "XXX.721.788-XX",
     "Número do Processo": "00135.202256/2025-91",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.A.D.C",
@@ -6585,7 +6585,7 @@
     "Nome": "A.J.P",
     "CPF": "XXX.533.318-XX",
     "Número do Processo": "00135.202578/2025-30",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.A.B",
@@ -6747,7 +6747,7 @@
     "Nome": "M.J.D.S.S",
     "CPF": "XXX.082.796-XX",
     "Número do Processo": "00135.207268/2025-10",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.D",
@@ -6861,13 +6861,13 @@
     "Nome": "A.A.C",
     "CPF": "XXX.122.088-XX",
     "Número do Processo": "00135.205038/2025-16",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.P",
     "CPF": "XXX.070.618-XX",
     "Número do Processo": "00135.202731/2025-29",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.D.B",
@@ -6927,7 +6927,7 @@
     "Nome": "P.D.F.F",
     "CPF": "XXX.795.648-XX",
     "Número do Processo": "00135.227430/2024-27",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "P.R.C",
@@ -7263,7 +7263,7 @@
     "Nome": "E.A.C.S",
     "CPF": "XXX.481.806-XX",
     "Número do Processo": "00135.200757/2025-32",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "W.V.P",
@@ -7419,7 +7419,7 @@
     "Nome": "M.D.G.S",
     "CPF": "XXX.609.066-XX",
     "Número do Processo": "00135.206281/2025-43",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.A.D.A.D.A",
@@ -7545,7 +7545,7 @@
     "Nome": "V.J.R",
     "CPF": "XXX.787.218-XX",
     "Número do Processo": "00135.205227/2025-81",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.L.D.S.V",
@@ -7605,7 +7605,7 @@
     "Nome": "N.F.D.S",
     "CPF": "XXX.859.106-XX",
     "Número do Processo": "00135.203182/2025-18",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.D.C.R",
@@ -7767,7 +7767,7 @@
     "Nome": "C.R.A",
     "CPF": "XXX.738.438-XX",
     "Número do Processo": "00135.210044/2025-87",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "P.A.V",
@@ -8181,7 +8181,7 @@
     "Nome": "L.A.R.D.C",
     "CPF": "XXX.680.236-XX",
     "Número do Processo": "00135.203394/2025-97",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.P.B.D.S",
@@ -8247,7 +8247,7 @@
     "Nome": "M.A.R.S",
     "CPF": "XXX.564.216-XX",
     "Número do Processo": "00135.202449/2025-41",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.A.C",
@@ -8433,7 +8433,7 @@
     "Nome": "C.I.M.P",
     "CPF": "XXX.084.096-XX",
     "Número do Processo": "00135.201765/2025-04",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.C.D.S",
@@ -8445,7 +8445,7 @@
     "Nome": "S.M.D.C.T",
     "CPF": "XXX.881.106-XX",
     "Número do Processo": "00135.203425/2025-18",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.L.D.S",
@@ -8535,7 +8535,7 @@
     "Nome": "S.B.D.S",
     "CPF": "XXX.197.517-XX",
     "Número do Processo": "00135.203147/2025-91",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.R.B",
@@ -8619,7 +8619,7 @@
     "Nome": "M.D.O.P",
     "CPF": "XXX.709.307-XX",
     "Número do Processo": "00135.208686/2025-16",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.M.M.M",
@@ -8637,7 +8637,7 @@
     "Nome": "S.R.F",
     "CPF": "XXX.470.416-XX",
     "Número do Processo": "00135.206277/2025-85",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.C.R.C",
@@ -8781,7 +8781,7 @@
     "Nome": "R.C.G",
     "CPF": "XXX.372.227-XX",
     "Número do Processo": "00135.208446/2025-11",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.D.S",
@@ -8889,7 +8889,7 @@
     "Nome": "B.D.R",
     "CPF": "XXX.079.238-XX",
     "Número do Processo": "00135.227390/2024-13",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.A.D.O.S",
@@ -9081,7 +9081,7 @@
     "Nome": "S.S.D.S.F",
     "CPF": "XXX.988.108-XX",
     "Número do Processo": "00135.200945/2025-61",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "A.D.A.D",
@@ -9243,7 +9243,7 @@
     "Nome": "A.G",
     "CPF": "XXX.191.267-XX",
     "Número do Processo": "00135.204824/2025-98",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.A.D.C",
@@ -9417,7 +9417,7 @@
     "Nome": "D.R.D.S",
     "CPF": "XXX.471.477-XX",
     "Número do Processo": "00135.202975/2025-10",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "O.M",
@@ -9429,7 +9429,7 @@
     "Nome": "G.D.D.D.J.R",
     "CPF": "XXX.977.986-XX",
     "Número do Processo": "00135.203082/2025-83",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.P.M",
@@ -9489,7 +9489,7 @@
     "Nome": "J.G.R.D.O",
     "CPF": "XXX.227.018-XX",
     "Número do Processo": "00135.209598/2025-31",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "O.F",
@@ -10011,7 +10011,7 @@
     "Nome": "M.A.D.S",
     "CPF": "XXX.701.058-XX",
     "Número do Processo": "00135.201962/2025-15",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.B.D.L",
@@ -10203,7 +10203,7 @@
     "Nome": "D.G.D.S",
     "CPF": "XXX.361.427-XX",
     "Número do Processo": "00135.208625/2025-59",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.C.S",
@@ -10215,7 +10215,7 @@
     "Nome": "E.F.V",
     "CPF": "XXX.616.408-XX",
     "Número do Processo": "00135.210522/2025-59",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.C.D.M",
@@ -10353,7 +10353,7 @@
     "Nome": "M.B.B.D.S",
     "CPF": "XXX.529.452-XX",
     "Número do Processo": "00135.209401/2025-64",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.D.D.O",
@@ -10467,7 +10467,7 @@
     "Nome": "G.P.M",
     "CPF": "XXX.208.558-XX",
     "Número do Processo": "00135.202414/2025-11",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "G.A.D.F.M",
@@ -10851,7 +10851,7 @@
     "Nome": "N.R.V",
     "CPF": "XXX.003.817-XX",
     "Número do Processo": "00135.204833/2025-89",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.L.D.O.S",
@@ -11043,7 +11043,7 @@
     "Nome": "M.L.B.C",
     "CPF": "XXX.614.571-XX",
     "Número do Processo": "00135.204922/2025-25",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.J.C.G",
@@ -11229,7 +11229,7 @@
     "Nome": "M.D.P.V",
     "CPF": "XXX.280.577-XX",
     "Número do Processo": "00135.208671/2025-58",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.A.D.O",
@@ -11652,6 +11652,12 @@
     "Status": "1. Digitalizado"
   },
   {
+    "Nome": "S.C.N",
+    "CPF": "XXX.341.488-XX",
+    "Número do Processo": "00135.212278/2025-69",
+    "Status": "1. Digitalizado"
+  },
+  {
     "Nome": "W.B.D.S",
     "CPF": "XXX.605.917-XX",
     "Número do Processo": "00135.205437/2025-79",
@@ -11703,7 +11709,7 @@
     "Nome": "D.J.T",
     "CPF": "XXX.109.617-XX",
     "Número do Processo": "00135.200930/2025-01",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "M.D.C.A.S",
@@ -11841,7 +11847,7 @@
     "Nome": "S.D.F.C",
     "CPF": "XXX.792.577-XX",
     "Número do Processo": "00135.207581/2025-40",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.S.S.C",
@@ -12381,7 +12387,7 @@
     "Nome": "M.C.T",
     "CPF": "XXX.993.516-XX",
     "Número do Processo": "00135.207296/2025-29",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.D.C",
@@ -12759,7 +12765,7 @@
     "Nome": "C.R.D.S",
     "CPF": "XXX.165.917-XX",
     "Número do Processo": "00135.206623/2025-25",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.C.A",
@@ -12843,7 +12849,7 @@
     "Nome": "M.J.G",
     "CPF": "XXX.697.507-XX",
     "Número do Processo": "00135.201227/2025-10",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.R.D.S",
@@ -12951,7 +12957,7 @@
     "Nome": "I.M.S",
     "CPF": "XXX.361.727-XX",
     "Número do Processo": "00135.206654/2025-86",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.L.D.M.S",
@@ -13551,7 +13557,7 @@
     "Nome": "L.A.D.S.R",
     "CPF": "XXX.488.686-XX",
     "Número do Processo": "00135.201928/2025-41",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.V.D.S",
@@ -13581,7 +13587,7 @@
     "Nome": "J.D.O.L",
     "CPF": "XXX.182.881-XX",
     "Número do Processo": "00135.200637/2025-35",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "L.M.E",
@@ -13689,7 +13695,7 @@
     "Nome": "L.M.S.N",
     "CPF": "XXX.656.273-XX",
     "Número do Processo": "00135.201514/2025-11",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "L.C.D.L",
@@ -13755,7 +13761,7 @@
     "Nome": "Z.C.D.R",
     "CPF": "XXX.976.186-XX",
     "Número do Processo": "00135.206858/2025-17",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.B",
@@ -13917,7 +13923,7 @@
     "Nome": "M.A.D.A.L",
     "CPF": "XXX.693.266-XX",
     "Número do Processo": "00135.208513/2025-06",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.M.D.F.C.M",
@@ -14313,7 +14319,7 @@
     "Nome": "L.H.D.S.W.M",
     "CPF": "XXX.247.997-XX",
     "Número do Processo": "00135.201559/2025-96",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.F.C",
@@ -14379,7 +14385,7 @@
     "Nome": "R.P.L.D.C",
     "CPF": "XXX.849.997-XX",
     "Número do Processo": "00135.206626/2025-69",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.C.F",
@@ -14505,7 +14511,7 @@
     "Nome": "L.M.D.S.E.S",
     "CPF": "XXX.093.026-XX",
     "Número do Processo": "00135.205347/2025-88",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.A.S",
@@ -14595,7 +14601,7 @@
     "Nome": "E.R.T",
     "CPF": "XXX.728.962-XX",
     "Número do Processo": "00135.209866/2025-15",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.D.S.R.C",
@@ -14769,7 +14775,7 @@
     "Nome": "S.R.T",
     "CPF": "XXX.467.087-XX",
     "Número do Processo": "00135.203123/2025-31",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.A.D.C.C",
@@ -14787,7 +14793,7 @@
     "Nome": "J.A.D.S",
     "CPF": "XXX.578.277-XX",
     "Número do Processo": "00135.206501/2025-39",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.R.P.C",
@@ -14979,7 +14985,7 @@
     "Nome": "J.O.L.D.S",
     "CPF": "XXX.957.111-XX",
     "Número do Processo": "00135.200636/2025-91",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "A.F.L",
@@ -15429,7 +15435,7 @@
     "Nome": "D.V.D.S",
     "CPF": "XXX.294.787-XX",
     "Número do Processo": "00135.204183/2025-71",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.H.D.R",
@@ -15477,7 +15483,7 @@
     "Nome": "M.B.D.M",
     "CPF": "XXX.387.687-XX",
     "Número do Processo": "00135.203723/2025-08",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.D.D.S.L",
@@ -15507,7 +15513,7 @@
     "Nome": "M.W.N",
     "CPF": "XXX.125.569-XX",
     "Número do Processo": "00135.202447/2025-52",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "W.J.D.S.J",
@@ -15597,7 +15603,7 @@
     "Nome": "M.A.D.S",
     "CPF": "XXX.701.837-XX",
     "Número do Processo": "00135.201106/2025-60",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.J.D.S",
@@ -15921,7 +15927,7 @@
     "Nome": "G.G.D.S",
     "CPF": "XXX.932.047-XX",
     "Número do Processo": "00135.201231/2025-70",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "V.P.A",
@@ -16023,7 +16029,7 @@
     "Nome": "C.S.L.P",
     "CPF": "XXX.079.546-XX",
     "Número do Processo": "00135.207751/2025-96",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.L.D.C",
@@ -16143,7 +16149,7 @@
     "Nome": "J.M.D.O.M",
     "CPF": "XXX.487.916-XX",
     "Número do Processo": "00135.206964/2025-09",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.G.K",
@@ -16191,7 +16197,7 @@
     "Nome": "C.A.D.A.T",
     "CPF": "XXX.959.757-XX",
     "Número do Processo": "00135.204533/2025-08",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.A.N",
@@ -16233,7 +16239,7 @@
     "Nome": "R.R.G.D.O",
     "CPF": "XXX.003.727-XX",
     "Número do Processo": "00135.205712/2025-54",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.D.S.S",
@@ -16467,7 +16473,7 @@
     "Nome": "E.D.M.D.A",
     "CPF": "XXX.003.927-XX",
     "Número do Processo": "00135.206710/2025-82",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.G.L.R",
@@ -16605,7 +16611,7 @@
     "Nome": "I.D.P",
     "CPF": "XXX.791.127-XX",
     "Número do Processo": "00135.208464/2025-01",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.A.F",
@@ -16629,7 +16635,7 @@
     "Nome": "M.D.N.M.G",
     "CPF": "XXX.456.872-XX",
     "Número do Processo": "00135.210199/2025-13",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "H.S.D.S",
@@ -16737,7 +16743,7 @@
     "Nome": "D.D.O.D.S",
     "CPF": "XXX.792.227-XX",
     "Número do Processo": "00135.210535/2025-28",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.V.D.S",
@@ -16755,7 +16761,7 @@
     "Nome": "A.G.A",
     "CPF": "XXX.126.517-XX",
     "Número do Processo": "00135.208724/2025-31",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.M.D.A",
@@ -16821,7 +16827,7 @@
     "Nome": "D.E.D.S",
     "CPF": "XXX.481.513-XX",
     "Número do Processo": "00135.208237/2025-78",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.F",
@@ -16851,7 +16857,7 @@
     "Nome": "V.R.M",
     "CPF": "XXX.237.667-XX",
     "Número do Processo": "00135.203090/2025-20",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.C.C",
@@ -16929,7 +16935,7 @@
     "Nome": "A.D.J.D.S",
     "CPF": "XXX.247.027-XX",
     "Número do Processo": "00135.210231/2025-61",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.F.L",
@@ -17079,7 +17085,7 @@
     "Nome": "A.C.D.S",
     "CPF": "XXX.603.084-XX",
     "Número do Processo": "00135.204928/2025-01",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "M.C.D.S",
@@ -17097,7 +17103,7 @@
     "Nome": "W.L.B",
     "CPF": "XXX.886.897-XX",
     "Número do Processo": "00135.205808/2025-12",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.B.D.S",
@@ -17187,7 +17193,7 @@
     "Nome": "V.D.O.A",
     "CPF": "XXX.600.257-XX",
     "Número do Processo": "00135.206253/2025-26",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.D.O.B",
@@ -17241,7 +17247,7 @@
     "Nome": "G.M.D.S",
     "CPF": "XXX.047.316-XX",
     "Número do Processo": "00135.205452/2025-17",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.A.D.D.S",
@@ -17283,7 +17289,7 @@
     "Nome": "A.C.V",
     "CPF": "XXX.180.367-XX",
     "Número do Processo": "00135.205889/2025-51",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.M.F.A",
@@ -17325,7 +17331,7 @@
     "Nome": "C.A.G",
     "CPF": "XXX.556.476-XX",
     "Número do Processo": "00135.209967/2025-96",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.S.D.S",
@@ -17433,7 +17439,7 @@
     "Nome": "A.A.D.J.S.M",
     "CPF": "XXX.488.836-XX",
     "Número do Processo": "00135.206142/2025-10",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.E.A.D.A",
@@ -17775,7 +17781,7 @@
     "Nome": "E.L.D.B",
     "CPF": "XXX.473.776-XX",
     "Número do Processo": "00135.201138/2025-65",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.P.M.N",
@@ -17913,7 +17919,7 @@
     "Nome": "J.H.A",
     "CPF": "XXX.423.557-XX",
     "Número do Processo": "00135.208677/2025-25",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.N.M.D.S",
@@ -18069,7 +18075,7 @@
     "Nome": "V.M.D.O",
     "CPF": "XXX.461.097-XX",
     "Número do Processo": "00135.209858/2025-79",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.D.G.T",
@@ -18135,7 +18141,7 @@
     "Nome": "N.B.B",
     "CPF": "XXX.978.587-XX",
     "Número do Processo": "00135.201157/2025-91",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.S.D.S",
@@ -18147,7 +18153,7 @@
     "Nome": "M.V.D.M.V",
     "CPF": "XXX.387.637-XX",
     "Número do Processo": "00135.205013/2025-12",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.J.D.S",
@@ -18171,19 +18177,19 @@
     "Nome": "D.D.O.R.F",
     "CPF": "XXX.343.197-XX",
     "Número do Processo": "00135.202351/2025-94",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "G.G.D.S",
     "CPF": "XXX.254.787-XX",
     "Número do Processo": "00135.207950/2025-02",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.G.V",
     "CPF": "XXX.929.767-XX",
     "Número do Processo": "00135.204915/2025-23",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.M.O.G",
@@ -18261,7 +18267,7 @@
     "Nome": "M.L.D.M.H",
     "CPF": "XXX.736.276-XX",
     "Número do Processo": "00135.209420/2025-91",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "P.S.D.O",
@@ -18291,7 +18297,7 @@
     "Nome": "A.C",
     "CPF": "XXX.294.937-XX",
     "Número do Processo": "00135.203036/2025-84",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.A.D.S",
@@ -18357,7 +18363,7 @@
     "Nome": "M.T.D.S",
     "CPF": "XXX.755.531-XX",
     "Número do Processo": "00135.208471/2025-03",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.C.B",
@@ -18387,7 +18393,7 @@
     "Nome": "M.R.D.S",
     "CPF": "XXX.096.426-XX",
     "Número do Processo": "00135.202893/2025-67",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.G.P",
@@ -18399,7 +18405,7 @@
     "Nome": "O.G.A",
     "CPF": "XXX.458.907-XX",
     "Número do Processo": "00135.208769/2025-13",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "P.R.R.D.A",
@@ -18429,7 +18435,7 @@
     "Nome": "T.P.D.S",
     "CPF": "XXX.569.216-XX",
     "Número do Processo": "00135.202033/2025-23",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.D.S.P",
@@ -18501,7 +18507,7 @@
     "Nome": "V.P.D.L",
     "CPF": "XXX.480.206-XX",
     "Número do Processo": "00135.202587/2025-21",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.W.S",
@@ -18603,7 +18609,7 @@
     "Nome": "S.R.D.J",
     "CPF": "XXX.488.446-XX",
     "Número do Processo": "00135.202686/2025-11",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.L.D.S",
@@ -18639,7 +18645,7 @@
     "Nome": "S.D.S.S",
     "CPF": "XXX.530.991-XX",
     "Número do Processo": "00135.204333/2025-47",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.G.D.S",
@@ -18705,7 +18711,7 @@
     "Nome": "C.A.S",
     "CPF": "XXX.153.637-XX",
     "Número do Processo": "00135.201635/2025-63",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.S.S.M",
@@ -18747,7 +18753,7 @@
     "Nome": "S.M.B.M",
     "CPF": "XXX.722.566-XX",
     "Número do Processo": "00135.206925/2025-01",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.N.D.N",
@@ -18765,7 +18771,7 @@
     "Nome": "C.R.C",
     "CPF": "XXX.366.517-XX",
     "Número do Processo": "00135.207225/2025-26",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.M.A.P",
@@ -18831,7 +18837,7 @@
     "Nome": "M.A.D.O.G",
     "CPF": "XXX.336.016-XX",
     "Número do Processo": "00135.207270/2025-81",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.C.D.A.P",
@@ -18885,7 +18891,7 @@
     "Nome": "E.D.M",
     "CPF": "XXX.793.237-XX",
     "Número do Processo": "00135.206702/2025-36",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.S.S",
@@ -18909,7 +18915,7 @@
     "Nome": "C.D.F.R",
     "CPF": "XXX.474.536-XX",
     "Número do Processo": "00135.205434/2025-35",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.R.P.P",
@@ -18987,7 +18993,7 @@
     "Nome": "E.A.D.L",
     "CPF": "XXX.970.944-XX",
     "Número do Processo": "00135.208430/2025-17",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "N.F.D.S",
@@ -19017,7 +19023,7 @@
     "Nome": "S.M.R",
     "CPF": "XXX.891.797-XX",
     "Número do Processo": "00135.201604/2025-11",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.T.C",
@@ -19119,7 +19125,7 @@
     "Nome": "D.G.D.S",
     "CPF": "XXX.225.357-XX",
     "Número do Processo": "00135.203004/2025-89",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.I.S",
@@ -19179,13 +19185,13 @@
     "Nome": "M.P.R",
     "CPF": "XXX.222.697-XX",
     "Número do Processo": "00135.200864/2025-61",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.C.D.L",
     "CPF": "XXX.322.346-XX",
     "Número do Processo": "00135.209778/2025-13",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "T.A.S.D.S",
@@ -19257,7 +19263,7 @@
     "Nome": "S.B.D.V",
     "CPF": "XXX.069.456-XX",
     "Número do Processo": "00135.202991/2025-02",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "N.M.D.S.R",
@@ -19269,7 +19275,7 @@
     "Nome": "G.G.D.M",
     "CPF": "XXX.413.247-XX",
     "Número do Processo": "00135.202387/2025-78",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.B.D.M",
@@ -19533,7 +19539,7 @@
     "Nome": "L.C.L.D.A",
     "CPF": "XXX.389.857-XX",
     "Número do Processo": "00135.210304/2025-14",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.D.O",
@@ -19599,7 +19605,7 @@
     "Nome": "J.E.D.A",
     "CPF": "XXX.358.207-XX",
     "Número do Processo": "00135.205851/2025-88",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.E.M",
@@ -19641,7 +19647,7 @@
     "Nome": "C.L.D.S.R",
     "CPF": "XXX.354.387-XX",
     "Número do Processo": "00135.207403/2025-19",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.C.D.S",
@@ -19815,7 +19821,7 @@
     "Nome": "W.B.F",
     "CPF": "XXX.794.817-XX",
     "Número do Processo": "00135.201160/2025-13",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.N.P",
@@ -19845,7 +19851,7 @@
     "Nome": "A.C",
     "CPF": "XXX.582.077-XX",
     "Número do Processo": "00135.203039/2025-18",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.A.D.R.A",
@@ -19893,7 +19899,7 @@
     "Nome": "M.M.D.M.C",
     "CPF": "XXX.680.026-XX",
     "Número do Processo": "00135.206138/2025-51",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "G.S.C",
@@ -19971,7 +19977,7 @@
     "Nome": "R.S.M",
     "CPF": "XXX.585.286-XX",
     "Número do Processo": "00135.209664/2025-73",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.A.A",
@@ -20097,7 +20103,7 @@
     "Nome": "V.L.M.N.D.C",
     "CPF": "XXX.583.657-XX",
     "Número do Processo": "00135.203807/2025-33",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "W.J.D.S",
@@ -20133,7 +20139,7 @@
     "Nome": "E.B.D.O",
     "CPF": "XXX.989.187-XX",
     "Número do Processo": "00135.203637/2025-97",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.R.D.C",
@@ -20175,13 +20181,13 @@
     "Nome": "M.M.D.S",
     "CPF": "XXX.942.657-XX",
     "Número do Processo": "00135.205897/2025-05",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.D.S",
     "CPF": "XXX.487.716-XX",
     "Número do Processo": "00135.202148/2025-18",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.R",
@@ -20463,7 +20469,7 @@
     "Nome": "C.D.V.R",
     "CPF": "XXX.138.377-XX",
     "Número do Processo": "00135.200891/2025-33",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "A.J.R",
@@ -20529,7 +20535,7 @@
     "Nome": "E.J.P",
     "CPF": "XXX.737.707-XX",
     "Número do Processo": "00135.208202/2025-39",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.P.D.A",
@@ -20583,7 +20589,7 @@
     "Nome": "I.C.V.B",
     "CPF": "XXX.622.496-XX",
     "Número do Processo": "00135.200722/2025-01",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "A.D.C.P.R",
@@ -20661,7 +20667,7 @@
     "Nome": "L.M.D.F.D.J",
     "CPF": "XXX.976.366-XX",
     "Número do Processo": "00135.202617/2025-07",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.V.L",
@@ -20775,13 +20781,13 @@
     "Nome": "G.I.R",
     "CPF": "XXX.739.146-XX",
     "Número do Processo": "00135.201161/2025-50",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "L.M.S",
     "CPF": "XXX.679.906-XX",
     "Número do Processo": "00135.206189/2025-83",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.R.D.O.F",
@@ -20793,7 +20799,7 @@
     "Nome": "I.A",
     "CPF": "XXX.920.707-XX",
     "Número do Processo": "00135.208770/2025-30",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.L.L.F",
@@ -20883,7 +20889,7 @@
     "Nome": "J.F.D.S",
     "CPF": "XXX.757.167-XX",
     "Número do Processo": "00135.206791/2025-11",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "K.M.C.D.C",
@@ -20931,7 +20937,7 @@
     "Nome": "S.A.P",
     "CPF": "XXX.072.826-XX",
     "Número do Processo": "00135.203415/2025-74",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.A.D.V",
@@ -20973,7 +20979,7 @@
     "Nome": "M.B.B",
     "CPF": "XXX.794.707-XX",
     "Número do Processo": "00135.201162/2025-02",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.C.D.S",
@@ -21039,7 +21045,7 @@
     "Nome": "A.O.S",
     "CPF": "XXX.616.196-XX",
     "Número do Processo": "00135.202462/2025-09",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.L.P.D.S",
@@ -21111,7 +21117,7 @@
     "Nome": "F.D.S.B",
     "CPF": "XXX.447.337-XX",
     "Número do Processo": "00135.205691/2025-77",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.L.C.D.S",
@@ -21207,7 +21213,7 @@
     "Nome": "M.B.D.M",
     "CPF": "XXX.795.637-XX",
     "Número do Processo": "00135.203721/2025-19",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.B.D.S",
@@ -21261,7 +21267,7 @@
     "Nome": "R.G.D.S",
     "CPF": "XXX.979.147-XX",
     "Número do Processo": "00135.205709/2025-31",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.F.D.C",
@@ -21369,7 +21375,7 @@
     "Nome": "E.A.D.S",
     "CPF": "XXX.747.476-XX",
     "Número do Processo": "00135.207452/2025-51",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.M.C.D.A",
@@ -21411,7 +21417,7 @@
     "Nome": "P.S.D.O.A",
     "CPF": "XXX.818.997-XX",
     "Número do Processo": "00135.207737/2025-92",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.S.D.A",
@@ -21993,7 +21999,7 @@
     "Nome": "C.M.D.C",
     "CPF": "XXX.064.566-XX",
     "Número do Processo": "00135.207752/2025-31",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.N.P.D.S",
@@ -22209,7 +22215,7 @@
     "Nome": "C.C.R.B",
     "CPF": "XXX.250.056-XX",
     "Número do Processo": "00135.203837/2025-40",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.S.D.S.M",
@@ -22251,7 +22257,7 @@
     "Nome": "A.M.D.S",
     "CPF": "XXX.760.437-XX",
     "Número do Processo": "00135.207949/2025-70",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.N.D.O.F",
@@ -22731,7 +22737,7 @@
     "Nome": "T.M.C",
     "CPF": "XXX.458.776-XX",
     "Número do Processo": "00135.227433/2024-61",
-    "Status": "5. Aguardando votaï¿½ï¿½o"
+    "Status": "5. Aguardando votacao"
   },
   {
     "Nome": "E.C.D.L",
@@ -22863,7 +22869,7 @@
     "Nome": "R.N.M.L",
     "CPF": "XXX.413.922-XX",
     "Número do Processo": "00135.205992/2025-09",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "M.D.S.L.S",
@@ -22875,7 +22881,7 @@
     "Nome": "A.P.C",
     "CPF": "XXX.186.396-XX",
     "Número do Processo": "00135.205665/2025-49",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.D.A.P",
@@ -22995,7 +23001,7 @@
     "Nome": "I.G.D",
     "CPF": "XXX.611.286-XX",
     "Número do Processo": "00135.209279/2025-26",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.L.M.D.F.C",
@@ -23031,7 +23037,7 @@
     "Nome": "R.S.D.S",
     "CPF": "XXX.822.856-XX",
     "Número do Processo": "00135.207343/2025-34",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.C.D.S.P",
@@ -23115,7 +23121,7 @@
     "Nome": "A.M.D.S.C",
     "CPF": "XXX.487.536-XX",
     "Número do Processo": "00135.204770/2025-61",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.A.B.D.O",
@@ -23235,7 +23241,7 @@
     "Nome": "D.N.M",
     "CPF": "XXX.465.836-XX",
     "Número do Processo": "00135.207745/2025-39",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "O.C.D.M",
@@ -23253,7 +23259,7 @@
     "Nome": "J.D.J.D.S",
     "CPF": "XXX.271.877-XX",
     "Número do Processo": "00135.210223/2025-14",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.D.S",
@@ -23271,7 +23277,7 @@
     "Nome": "M.M.R",
     "CPF": "XXX.510.321-XX",
     "Número do Processo": "00135.208842/2025-49",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.C.D.S.F",
@@ -23343,7 +23349,7 @@
     "Nome": "E.S.G",
     "CPF": "XXX.732.226-XX",
     "Número do Processo": "00135.203338/2025-52",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.C.D.O",
@@ -23511,7 +23517,7 @@
     "Nome": "J.P.D.C",
     "CPF": "XXX.270.363-XX",
     "Número do Processo": "00135.205624/2025-52",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "I.P.L",
@@ -23745,7 +23751,7 @@
     "Nome": "C.A.R",
     "CPF": "XXX.140.516-XX",
     "Número do Processo": "00135.207583/2025-39",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.F.S.R",
@@ -23793,7 +23799,7 @@
     "Nome": "G.M.E",
     "CPF": "XXX.778.867-XX",
     "Número do Processo": "00135.207456/2025-30",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "P.G.C",
@@ -23805,7 +23811,7 @@
     "Nome": "M.A.M",
     "CPF": "XXX.435.632-XX",
     "Número do Processo": "00135.208531/2025-80",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.C.S.D.S",
@@ -23901,7 +23907,7 @@
     "Nome": "A.L.F.C",
     "CPF": "XXX.072.266-XX",
     "Número do Processo": "00135.201074/2025-01",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "L.R.P.S",
@@ -23937,7 +23943,7 @@
     "Nome": "G.V.D.P",
     "CPF": "XXX.414.226-XX",
     "Número do Processo": "00135.204067/2025-52",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.C.D.S.M",
@@ -23961,7 +23967,7 @@
     "Nome": "E.S.D.O.S",
     "CPF": "XXX.588.906-XX",
     "Número do Processo": "00135.202460/2025-10",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.L.D.S",
@@ -24021,7 +24027,7 @@
     "Nome": "W.R.M",
     "CPF": "XXX.975.186-XX",
     "Número do Processo": "00135.209692/2025-91",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.G.D.S",
@@ -24129,7 +24135,7 @@
     "Nome": "C.D.D.O.R",
     "CPF": "XXX.082.886-XX",
     "Número do Processo": "00135.203329/2025-61",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.M.D.S.M",
@@ -24309,7 +24315,7 @@
     "Nome": "D.F.D.S.R",
     "CPF": "XXX.980.036-XX",
     "Número do Processo": "00135.205352/2025-91",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.E",
@@ -24387,7 +24393,7 @@
     "Nome": "J.S.F",
     "CPF": "XXX.654.116-XX",
     "Número do Processo": "00135.201482/2025-54",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.A.B.D.S",
@@ -24423,7 +24429,7 @@
     "Nome": "E.A.D.V",
     "CPF": "XXX.081.696-XX",
     "Número do Processo": "00135.210305/2025-69",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.F",
@@ -24441,7 +24447,7 @@
     "Nome": "E.A.D.S",
     "CPF": "XXX.479.786-XX",
     "Número do Processo": "00135.209270/2025-15",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.R",
@@ -24507,7 +24513,7 @@
     "Nome": "C.P.F.D.S",
     "CPF": "XXX.608.436-XX",
     "Número do Processo": "00135.209413/2025-99",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.A.S",
@@ -24573,7 +24579,7 @@
     "Nome": "G.J.B",
     "CPF": "XXX.068.216-XX",
     "Número do Processo": "00135.201522/2025-68",
-    "Status": "4. Distribuï¿½do para relator"
+    "Status": "4. Distribuido para relator "
   },
   {
     "Nome": "G.A.D.A",
@@ -24615,7 +24621,7 @@
     "Nome": "M.R.F.S",
     "CPF": "XXX.089.666-XX",
     "Número do Processo": "00135.207273/2025-14",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.P.D.A",
@@ -24657,7 +24663,7 @@
     "Nome": "R.A.D.M",
     "CPF": "XXX.093.516-XX",
     "Número do Processo": "00135.206413/2025-37",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.M.R",
@@ -24807,7 +24813,7 @@
     "Nome": "S.M.P",
     "CPF": "XXX.076.396-XX",
     "Número do Processo": "00135.203802/2025-19",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.F.M",
@@ -24837,7 +24843,7 @@
     "Nome": "F.B.D.S",
     "CPF": "XXX.977.096-XX",
     "Número do Processo": "00135.206233/2025-55",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.R.D.S",
@@ -24849,7 +24855,7 @@
     "Nome": "P.A.D.C",
     "CPF": "XXX.059.031-XX",
     "Número do Processo": "00135.203893/2025-84",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "K.R.S",
@@ -24873,7 +24879,7 @@
     "Nome": "C.R.S.A",
     "CPF": "XXX.136.751-XX",
     "Número do Processo": "00135.204760/2025-25",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.N.V",
@@ -24981,7 +24987,7 @@
     "Nome": "J.A.B",
     "CPF": "XXX.167.956-XX",
     "Número do Processo": "00135.202488/2025-49",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.F.D.S",
@@ -24999,13 +25005,13 @@
     "Nome": "N.R.R",
     "CPF": "XXX.070.646-XX",
     "Número do Processo": "00135.210501/2025-33",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.T.D.R",
     "CPF": "XXX.423.066-XX",
     "Número do Processo": "00135.204612/2025-19",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.A.D.S",
@@ -25023,7 +25029,7 @@
     "Nome": "M.F.D.P",
     "CPF": "XXX.476.963-XX",
     "Número do Processo": "00135.205936/2025-66",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.P.D.S",
@@ -25059,7 +25065,7 @@
     "Nome": "V.M.D.J.D.C",
     "CPF": "XXX.472.106-XX",
     "Número do Processo": "00135.203076/2025-26",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.C.F.D.O",
@@ -25089,7 +25095,7 @@
     "Nome": "S.M.D.S",
     "CPF": "XXX.473.486-XX",
     "Número do Processo": "00135.205188/2025-11",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.L.S.F",
@@ -25101,13 +25107,13 @@
     "Nome": "M.A.F",
     "CPF": "XXX.320.536-XX",
     "Número do Processo": "00135.209072/2025-51",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.F.D.S.H.D.S",
     "CPF": "XXX.683.656-XX",
     "Número do Processo": "00135.205315/2025-82",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.F.D.S.J",
@@ -25203,7 +25209,7 @@
     "Nome": "V.F.M",
     "CPF": "XXX.083.916-XX",
     "Número do Processo": "00135.206201/2025-50",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "G.R.L",
@@ -25281,7 +25287,7 @@
     "Nome": "Z.C.D.P",
     "CPF": "XXX.703.351-XX",
     "Número do Processo": "00135.205510/2025-11",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.S.C",
@@ -25317,7 +25323,7 @@
     "Nome": "R.P.D.S",
     "CPF": "XXX.481.136-XX",
     "Número do Processo": "00135.202615/2025-18",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.A.D.O",
@@ -25365,7 +25371,7 @@
     "Nome": "E.C.V",
     "CPF": "XXX.249.716-XX",
     "Número do Processo": "00135.203046/2025-10",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.L.M.D.F.B",
@@ -25395,7 +25401,7 @@
     "Nome": "G.D.M.P",
     "CPF": "XXX.064.666-XX",
     "Número do Processo": "00135.205323/2025-29",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.D.S.R",
@@ -25473,7 +25479,7 @@
     "Nome": "L.A.D.V",
     "CPF": "XXX.472.696-XX",
     "Número do Processo": "00135.210309/2025-47",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.R.D.A",
@@ -25509,7 +25515,7 @@
     "Nome": "A.F.L",
     "CPF": "XXX.970.556-XX",
     "Número do Processo": "00135.205807/2025-78",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "N.D.J.S",
@@ -25521,7 +25527,7 @@
     "Nome": "R.S.D.S",
     "CPF": "XXX.974.806-XX",
     "Número do Processo": "00135.207342/2025-90",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.A.N.F",
@@ -25551,7 +25557,7 @@
     "Nome": "S.G.D.S",
     "CPF": "XXX.063.146-XX",
     "Número do Processo": "00135.205840/2025-06",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.S.D.C",
@@ -25569,7 +25575,7 @@
     "Nome": "E.C.A",
     "CPF": "XXX.982.176-XX",
     "Número do Processo": "00135.209960/2025-74",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.A.C.D.S",
@@ -25617,7 +25623,7 @@
     "Nome": "M.A.B",
     "CPF": "XXX.637.296-XX",
     "Número do Processo": "00135.204610/2025-11",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.L",
@@ -25791,7 +25797,7 @@
     "Nome": "R.S.L",
     "CPF": "XXX.029.813-XX",
     "Número do Processo": "00135.205663/2025-50",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.D.O.M",
@@ -25827,7 +25833,7 @@
     "Nome": "C.R.D.S",
     "CPF": "XXX.088.826-XX",
     "Número do Processo": "00135.205542/2025-16",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.V.D.S",
@@ -26181,7 +26187,7 @@
     "Nome": "R.R.D.S",
     "CPF": "XXX.883.751-XX",
     "Número do Processo": "00135.205470/2025-07",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.B.D.S",
@@ -26355,7 +26361,7 @@
     "Nome": "G.A.L",
     "CPF": "XXX.976.876-XX",
     "Número do Processo": "00135.208938/2025-15",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.C.S",
@@ -26541,7 +26547,7 @@
     "Nome": "I.R.D.S",
     "CPF": "XXX.731.823-XX",
     "Número do Processo": "00135.210921/2025-10",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.N.D.S.M",
@@ -26595,7 +26601,7 @@
     "Nome": "E.B.D.S",
     "CPF": "XXX.617.001-XX",
     "Número do Processo": "00135.203381/2025-18",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.V.D.L.F.C",
@@ -26661,7 +26667,7 @@
     "Nome": "M.A.D",
     "CPF": "XXX.087.796-XX",
     "Número do Processo": "00135.205490/2025-70",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.B.P.D.S",
@@ -26685,7 +26691,7 @@
     "Nome": "J.A.D.S",
     "CPF": "XXX.965.703-XX",
     "Número do Processo": "00135.208784/2025-53",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.H.L",
@@ -26943,7 +26949,7 @@
     "Nome": "L.P.A",
     "CPF": "XXX.467.996-XX",
     "Número do Processo": "00135.203422/2025-76",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.P.C",
@@ -27153,7 +27159,7 @@
     "Nome": "R.M.D.M",
     "CPF": "XXX.809.876-XX",
     "Número do Processo": "00135.203885/2025-38",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.D.O.F",
@@ -27339,7 +27345,7 @@
     "Nome": "A.D.S",
     "CPF": "XXX.005.129-XX",
     "Número do Processo": "00135.202778/2025-92",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.V.D.L",
@@ -27411,7 +27417,7 @@
     "Nome": "M.C.N",
     "CPF": "XXX.320.226-XX",
     "Número do Processo": "00135.202605/2025-74",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.N.V.V",
@@ -27435,7 +27441,7 @@
     "Nome": "G.R.R",
     "CPF": "XXX.685.386-XX",
     "Número do Processo": "00135.210955/2025-12",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "N.D.S.S",
@@ -27801,7 +27807,7 @@
     "Nome": "A.P.R",
     "CPF": "XXX.843.702-XX",
     "Número do Processo": "00135.209832/2025-21",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.I.D.S",
@@ -27903,13 +27909,13 @@
     "Nome": "C.M.C",
     "CPF": "XXX.051.024-XX",
     "Número do Processo": "00135.206921/2025-15",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "Z.C.P.D.M",
     "CPF": "XXX.414.321-XX",
     "Número do Processo": "00135.204888/2025-99",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.G.D.S",
@@ -27939,7 +27945,7 @@
     "Nome": "J.D.A.B.S",
     "CPF": "XXX.176.006-XX",
     "Número do Processo": "00135.201104/2025-71",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.A.M.B",
@@ -28089,7 +28095,7 @@
     "Nome": "F.M.D.S",
     "CPF": "XXX.606.463-XX",
     "Número do Processo": "00135.208582/2025-10",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.G.C.O",
@@ -28101,13 +28107,13 @@
     "Nome": "R.P",
     "CPF": "XXX.939.346-XX",
     "Número do Processo": "00135.209417/2025-77",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.D",
     "CPF": "XXX.095.676-XX",
     "Número do Processo": "00135.205500/2025-77",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.S.L",
@@ -28257,7 +28263,7 @@
     "Nome": "G.S.C",
     "CPF": "XXX.647.082-XX",
     "Número do Processo": "00135.204090/2025-47",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.C.D.S.C",
@@ -28413,7 +28419,7 @@
     "Nome": "C.J.D.S",
     "CPF": "XXX.012.634-XX",
     "Número do Processo": "00135.207958/2025-61",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.R.G",
@@ -28461,7 +28467,7 @@
     "Nome": "A.A.D.S.J",
     "CPF": "XXX.847.454-XX",
     "Número do Processo": "00135.202266/2025-26",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.N.D.S",
@@ -28497,7 +28503,7 @@
     "Nome": "I.P.L",
     "CPF": "XXX.919.613-XX",
     "Número do Processo": "00135.201567/2025-32",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.F.D.A",
@@ -28599,7 +28605,7 @@
     "Nome": "I.A.D.V",
     "CPF": "XXX.275.896-XX",
     "Número do Processo": "00135.210297/2025-51",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.A.D.V",
@@ -28737,7 +28743,7 @@
     "Nome": "D.D.M.S",
     "CPF": "XXX.850.076-XX",
     "Número do Processo": "00135.210112/2025-16",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.T.D.S.S",
@@ -28767,7 +28773,7 @@
     "Nome": "J.R.D.S",
     "CPF": "XXX.062.506-XX",
     "Número do Processo": "00135.205541/2025-63",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.D.L.V",
@@ -29013,7 +29019,7 @@
     "Nome": "I.L.S",
     "CPF": "XXX.794.793-XX",
     "Número do Processo": "00135.210168/2025-62",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.D.S",
@@ -29073,7 +29079,7 @@
     "Nome": "T.F.R",
     "CPF": "XXX.753.609-XX",
     "Número do Processo": "00135.209580/2025-30",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.N.M.L",
@@ -29163,7 +29169,7 @@
     "Nome": "V.N.V",
     "CPF": "XXX.894.096-XX",
     "Número do Processo": "00135.205638/2025-76",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.L.D.O.P",
@@ -29211,7 +29217,7 @@
     "Nome": "F.C.D.S",
     "CPF": "XXX.050.984-XX",
     "Número do Processo": "00135.207792/2025-82",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.B.F.G",
@@ -29223,7 +29229,7 @@
     "Nome": "Z.C.D.P",
     "CPF": "XXX.928.361-XX",
     "Número do Processo": "00135.205505/2025-08",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.C.R.P.D.S",
@@ -29469,7 +29475,7 @@
     "Nome": "M.J.E.D.S",
     "CPF": "XXX.988.684-XX",
     "Número do Processo": "00135.207293/2025-95",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.D.D.R",
@@ -29547,7 +29553,7 @@
     "Nome": "W.D.S.O",
     "CPF": "XXX.549.256-XX",
     "Número do Processo": "00135.205294/2025-03",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "C.V.D.O",
@@ -29601,7 +29607,7 @@
     "Nome": "J.P.L.C",
     "CPF": "XXX.130.173-XX",
     "Número do Processo": "00135.207284/2025-02",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "K.D.O",
@@ -29697,7 +29703,7 @@
     "Nome": "W.R.D.S",
     "CPF": "XXX.373.171-XX",
     "Número do Processo": "00135.205880/2025-40",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "L.H.D.S",
@@ -29811,7 +29817,7 @@
     "Nome": "W.T",
     "CPF": "XXX.275.781-XX",
     "Número do Processo": "00135.207647/2025-00",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "R.R.D.P.T",
@@ -29865,7 +29871,7 @@
     "Nome": "H.M.C",
     "CPF": "XXX.801.103-XX",
     "Número do Processo": "00135.207611/2025-18",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.D.P.C",
@@ -29889,7 +29895,7 @@
     "Nome": "F.A.L.G",
     "CPF": "XXX.009.473-XX",
     "Número do Processo": "00135.204927/2025-58",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "P.C.O.G",
@@ -29943,7 +29949,7 @@
     "Nome": "G.M.M.A",
     "CPF": "XXX.931.213-XX",
     "Número do Processo": "00135.209115/2025-07",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.A.F",
@@ -30189,7 +30195,7 @@
     "Nome": "S.R.G",
     "CPF": "XXX.613.356-XX",
     "Número do Processo": "00135.204822/2025-07",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "S.M.D.N",
@@ -30207,7 +30213,7 @@
     "Nome": "E.C.D.O",
     "CPF": "XXX.145.421-XX",
     "Número do Processo": "00135.210462/2025-74",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "D.J.D.V",
@@ -30267,13 +30273,13 @@
     "Nome": "H.F.M",
     "CPF": "XXX.026.271-XX",
     "Número do Processo": "00135.208101/2025-68",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.J.A.S",
     "CPF": "XXX.032.011-XX",
     "Número do Processo": "00135.206497/2025-17",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "F.N.D.M",
@@ -30327,7 +30333,7 @@
     "Nome": "F.D.M.D",
     "CPF": "XXX.350.252-XX",
     "Número do Processo": "00135.206946/2025-19",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.M.D.S",
@@ -30369,7 +30375,7 @@
     "Nome": "S.S.C",
     "CPF": "XXX.725.393-XX",
     "Número do Processo": "00135.202845/2025-79",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.M.D.M",
@@ -30399,13 +30405,13 @@
     "Nome": "J.G.D.S",
     "CPF": "XXX.328.561-XX",
     "Número do Processo": "00135.207920/2025-98",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "J.J.S",
     "CPF": "XXX.391.991-XX",
     "Número do Processo": "00135.207999/2025-57",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.D.O.D",
@@ -30441,13 +30447,13 @@
     "Nome": "C.W.D",
     "CPF": "XXX.548.641-XX",
     "Número do Processo": "00135.206865/2025-19",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.S.D.R",
     "CPF": "XXX.029.801-XX",
     "Número do Processo": "00135.209676/2025-06",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "K.S.M",
@@ -30501,7 +30507,7 @@
     "Nome": "E.S.M",
     "CPF": "XXX.206.981-XX",
     "Número do Processo": "00135.206729/2025-29",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "M.L.D.C",
@@ -30531,7 +30537,7 @@
     "Nome": "R.D.A.S.P",
     "CPF": "XXX.646.691-XX",
     "Número do Processo": "00135.207125/2025-08",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.A.M",
@@ -30603,7 +30609,7 @@
     "Nome": "D.M.R",
     "CPF": "XXX.175.941-XX",
     "Número do Processo": "00135.208103/2025-57",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "I.D.S.R",
@@ -30777,7 +30783,7 @@
     "Nome": "S.O.C",
     "CPF": "XXX.605.183-XX",
     "Número do Processo": "00135.203169/2025-51",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "E.S.L",
@@ -30873,7 +30879,7 @@
     "Nome": "S.B.D.A",
     "CPF": "XXX.921.522-XX",
     "Número do Processo": "00135.210450/2025-40",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "A.E.M.M",
@@ -30891,7 +30897,7 @@
     "Nome": "F.J.C.D.O.S",
     "CPF": "XXX.909.193-XX",
     "Número do Processo": "00135.208718/2025-83",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "V.G.S.S",
@@ -31035,7 +31041,7 @@
     "Nome": "M.I.S.R",
     "CPF": "XXX.890.202-XX",
     "Número do Processo": "00135.210197/2025-24",
-    "Status": "2. Em anï¿½lise preliminar"
+    "Status": "2. Em analise preliminar "
   },
   {
     "Nome": "T.O.B",
@@ -31600,5 +31606,23 @@
     "CPF": "XXX.047.606-XX",
     "Número do Processo": "00135.212280/2025-38",
     "Status": "6. Arquivado - FAL"
+  },
+  {
+    "Nome": NaN,
+    "CPF": NaN,
+    "Número do Processo": NaN,
+    "Status": NaN
+  },
+  {
+    "Nome": NaN,
+    "CPF": NaN,
+    "Número do Processo": NaN,
+    "Status": NaN
+  },
+  {
+    "Nome": NaN,
+    "CPF": NaN,
+    "Número do Processo": NaN,
+    "Status": NaN
   }
 ]
