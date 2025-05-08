@@ -20,10 +20,8 @@ A base de dados utilizada é pública e disponibilizada pelo Ministério dos Dir
 
 Você pode acessar o projeto por qualquer um dos links abaixo:
 
-- ✅ **Vercel (recomendado):**  
-  👉 https://processo-checker-tbzc.vercel.app/
-
-- ✅ **GitHub Pages:**  
+- ✅ **Vercel (recomendado):**👉 https://processo-checker-tbzc.vercel.app/
+- ✅ **GitHub Pages:**
   👉 https://thiagonunes85.github.io/processo-checker/
 
 ---
@@ -61,4 +59,5 @@ Ele cumpre com os princípios de dados abertos, acessibilidade digital e privaci
 
 ---
 
-Feito com ❤️ por [Thiago Nunes](mailto:thiago.nunes@discente.ufg.br) – UFG
+Feito com ❤️ por [Thiago Nunes](mailto:thiago.nunes@discente.ufg.br)
+Bach. em Sistemas de Informação – UFG/IFG
